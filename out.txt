@@ -1,0 +1,6811 @@
+Welcome! Waiting for peers ...
+Connecting 192.168.1.8:8080 
+Succeed!
+Connecting 192.168.1.2:8080 
+Succeed!
+I am online at 192.168.1.4:8080 and all peers are available.
+
+
+Dear Bob, please choose a client for your new transaction.
+1) Alice
+2) Carol
+Enter a number: > 
+#### EVAL ####
+Gossip Runtime: 0.07000 (sec)
+Gossip Count: 0
+Avg. Gossip/sec:0.00000
+Avg. Latency: NaN (sec)
+Num. of Events: 1
+Num. of Consensus Events: 0
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 3.55600 (sec)
+Gossip Count: 20
+Avg. Gossip/sec:5.62430
+Avg. Latency: 1.51900 (sec)
+Num. of Events: 56
+Num. of Consensus Events: 44
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 6.33600 (sec)
+Gossip Count: 40
+Avg. Gossip/sec:6.31313
+Avg. Latency: 1.32172 (sec)
+Num. of Events: 116
+Num. of Consensus Events: 95
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 9.13900 (sec)
+Gossip Count: 60
+Avg. Gossip/sec:6.56527
+Avg. Latency: 1.17411 (sec)
+Num. of Events: 180
+Num. of Consensus Events: 166
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 11.99300 (sec)
+Gossip Count: 80
+Avg. Gossip/sec:6.67056
+Avg. Latency: 1.16106 (sec)
+Num. of Events: 240
+Num. of Consensus Events: 209
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 14.90300 (sec)
+Gossip Count: 100
+Avg. Gossip/sec:6.71006
+Avg. Latency: 1.18258 (sec)
+Num. of Events: 300
+Num. of Consensus Events: 271
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 17.67300 (sec)
+Gossip Count: 120
+Avg. Gossip/sec:6.79002
+Avg. Latency: 1.16212 (sec)
+Num. of Events: 361
+Num. of Consensus Events: 336
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 20.46600 (sec)
+Gossip Count: 140
+Avg. Gossip/sec:6.84061
+Avg. Latency: 1.14614 (sec)
+Num. of Events: 419
+Num. of Consensus Events: 406
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 23.24300 (sec)
+Gossip Count: 160
+Avg. Gossip/sec:6.88379
+Avg. Latency: 1.14400 (sec)
+Num. of Events: 479
+Num. of Consensus Events: 457
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 26.13900 (sec)
+Gossip Count: 180
+Avg. Gossip/sec:6.88626
+Avg. Latency: 1.12340 (sec)
+Num. of Events: 537
+Num. of Consensus Events: 527
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 29.11600 (sec)
+Gossip Count: 200
+Avg. Gossip/sec:6.86908
+Avg. Latency: 1.14227 (sec)
+Num. of Events: 603
+Num. of Consensus Events: 569
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 32.16300 (sec)
+Gossip Count: 220
+Avg. Gossip/sec:6.84016
+Avg. Latency: 1.16499 (sec)
+Num. of Events: 661
+Num. of Consensus Events: 643
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 35.01300 (sec)
+Gossip Count: 240
+Avg. Gossip/sec:6.85460
+Avg. Latency: 1.15878 (sec)
+Num. of Events: 721
+Num. of Consensus Events: 699
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 37.85900 (sec)
+Gossip Count: 260
+Avg. Gossip/sec:6.86759
+Avg. Latency: 1.14563 (sec)
+Num. of Events: 779
+Num. of Consensus Events: 756
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 40.69600 (sec)
+Gossip Count: 280
+Avg. Gossip/sec:6.88028
+Avg. Latency: 1.14212 (sec)
+Num. of Events: 841
+Num. of Consensus Events: 818
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 44.84900 (sec)
+Gossip Count: 300
+Avg. Gossip/sec:6.68911
+Avg. Latency: 1.16416 (sec)
+Num. of Events: 898
+Num. of Consensus Events: 882
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 47.64700 (sec)
+Gossip Count: 320
+Avg. Gossip/sec:6.71606
+Avg. Latency: 1.15716 (sec)
+Num. of Events: 960
+Num. of Consensus Events: 942
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 50.44300 (sec)
+Gossip Count: 340
+Avg. Gossip/sec:6.74028
+Avg. Latency: 1.15826 (sec)
+Num. of Events: 1013
+Num. of Consensus Events: 990
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 53.35600 (sec)
+Gossip Count: 360
+Avg. Gossip/sec:6.74713
+Avg. Latency: 1.15250 (sec)
+Num. of Events: 1081
+Num. of Consensus Events: 1060
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 56.19600 (sec)
+Gossip Count: 380
+Avg. Gossip/sec:6.76205
+Avg. Latency: 1.15092 (sec)
+Num. of Events: 1138
+Num. of Consensus Events: 1120
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 59.06300 (sec)
+Gossip Count: 400
+Avg. Gossip/sec:6.77243
+Avg. Latency: 1.14789 (sec)
+Num. of Events: 1204
+Num. of Consensus Events: 1190
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 61.92600 (sec)
+Gossip Count: 420
+Avg. Gossip/sec:6.78229
+Avg. Latency: 1.13772 (sec)
+Num. of Events: 1258
+Num. of Consensus Events: 1245
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 64.64900 (sec)
+Gossip Count: 440
+Avg. Gossip/sec:6.80598
+Avg. Latency: 1.12789 (sec)
+Num. of Events: 1321
+Num. of Consensus Events: 1299
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 67.48000 (sec)
+Gossip Count: 460
+Avg. Gossip/sec:6.81683
+Avg. Latency: 1.11787 (sec)
+Num. of Events: 1383
+Num. of Consensus Events: 1365
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 70.28900 (sec)
+Gossip Count: 480
+Avg. Gossip/sec:6.82895
+Avg. Latency: 1.12070 (sec)
+Num. of Events: 1443
+Num. of Consensus Events: 1426
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 73.16600 (sec)
+Gossip Count: 500
+Avg. Gossip/sec:6.83378
+Avg. Latency: 1.12784 (sec)
+Num. of Events: 1503
+Num. of Consensus Events: 1492
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 76.00600 (sec)
+Gossip Count: 520
+Avg. Gossip/sec:6.84157
+Avg. Latency: 1.12164 (sec)
+Num. of Events: 1561
+Num. of Consensus Events: 1547
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 78.81900 (sec)
+Gossip Count: 540
+Avg. Gossip/sec:6.85114
+Avg. Latency: 1.11427 (sec)
+Num. of Events: 1622
+Num. of Consensus Events: 1613
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 81.68300 (sec)
+Gossip Count: 560
+Avg. Gossip/sec:6.85577
+Avg. Latency: 1.11532 (sec)
+Num. of Events: 1681
+Num. of Consensus Events: 1668
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 84.46600 (sec)
+Gossip Count: 580
+Avg. Gossip/sec:6.86667
+Avg. Latency: 1.11046 (sec)
+Num. of Events: 1739
+Num. of Consensus Events: 1724
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 87.24300 (sec)
+Gossip Count: 600
+Avg. Gossip/sec:6.87734
+Avg. Latency: 1.11106 (sec)
+Num. of Events: 1800
+Num. of Consensus Events: 1778
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 90.10900 (sec)
+Gossip Count: 620
+Avg. Gossip/sec:6.88056
+Avg. Latency: 1.11052 (sec)
+Num. of Events: 1859
+Num. of Consensus Events: 1843
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 92.97000 (sec)
+Gossip Count: 640
+Avg. Gossip/sec:6.88394
+Avg. Latency: 1.11254 (sec)
+Num. of Events: 1924
+Num. of Consensus Events: 1902
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 95.80300 (sec)
+Gossip Count: 660
+Avg. Gossip/sec:6.88914
+Avg. Latency: 1.10928 (sec)
+Num. of Events: 1981
+Num. of Consensus Events: 1959
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 98.60900 (sec)
+Gossip Count: 680
+Avg. Gossip/sec:6.89592
+Avg. Latency: 1.10805 (sec)
+Num. of Events: 2041
+Num. of Consensus Events: 2023
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 101.42900 (sec)
+Gossip Count: 700
+Avg. Gossip/sec:6.90138
+Avg. Latency: 1.10720 (sec)
+Num. of Events: 2103
+Num. of Consensus Events: 2088
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 104.20700 (sec)
+Gossip Count: 720
+Avg. Gossip/sec:6.90932
+Avg. Latency: 1.10558 (sec)
+Num. of Events: 2161
+Num. of Consensus Events: 2145
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 107.05300 (sec)
+Gossip Count: 740
+Avg. Gossip/sec:6.91246
+Avg. Latency: 1.10468 (sec)
+Num. of Events: 2220
+Num. of Consensus Events: 2203
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 109.84600 (sec)
+Gossip Count: 760
+Avg. Gossip/sec:6.91878
+Avg. Latency: 1.10648 (sec)
+Num. of Events: 2282
+Num. of Consensus Events: 2266
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 112.73600 (sec)
+Gossip Count: 780
+Avg. Gossip/sec:6.91882
+Avg. Latency: 1.10209 (sec)
+Num. of Events: 2333
+Num. of Consensus Events: 2315
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 115.73600 (sec)
+Gossip Count: 800
+Avg. Gossip/sec:6.91228
+Avg. Latency: 1.10477 (sec)
+Num. of Events: 2398
+Num. of Consensus Events: 2374
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 119.60600 (sec)
+Gossip Count: 820
+Avg. Gossip/sec:6.85584
+Avg. Latency: 1.12336 (sec)
+Num. of Events: 2457
+Num. of Consensus Events: 2434
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 122.51300 (sec)
+Gossip Count: 840
+Avg. Gossip/sec:6.85642
+Avg. Latency: 1.12486 (sec)
+Num. of Events: 2512
+Num. of Consensus Events: 2500
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 125.31300 (sec)
+Gossip Count: 860
+Avg. Gossip/sec:6.86282
+Avg. Latency: 1.12726 (sec)
+Num. of Events: 2571
+Num. of Consensus Events: 2554
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 128.09300 (sec)
+Gossip Count: 880
+Avg. Gossip/sec:6.87001
+Avg. Latency: 1.12390 (sec)
+Num. of Events: 2636
+Num. of Consensus Events: 2622
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 130.86900 (sec)
+Gossip Count: 900
+Avg. Gossip/sec:6.87711
+Avg. Latency: 1.11902 (sec)
+Num. of Events: 2696
+Num. of Consensus Events: 2685
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 133.57300 (sec)
+Gossip Count: 920
+Avg. Gossip/sec:6.88762
+Avg. Latency: 1.11480 (sec)
+Num. of Events: 2759
+Num. of Consensus Events: 2738
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 136.38600 (sec)
+Gossip Count: 940
+Avg. Gossip/sec:6.89220
+Avg. Latency: 1.11155 (sec)
+Num. of Events: 2817
+Num. of Consensus Events: 2808
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 139.12300 (sec)
+Gossip Count: 960
+Avg. Gossip/sec:6.90037
+Avg. Latency: 1.10590 (sec)
+Num. of Events: 2878
+Num. of Consensus Events: 2860
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 141.89900 (sec)
+Gossip Count: 980
+Avg. Gossip/sec:6.90632
+Avg. Latency: 1.10275 (sec)
+Num. of Events: 2934
+Num. of Consensus Events: 2910
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 144.65300 (sec)
+Gossip Count: 1000
+Avg. Gossip/sec:6.91310
+Avg. Latency: 1.10189 (sec)
+Num. of Events: 2997
+Num. of Consensus Events: 2982
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 147.47600 (sec)
+Gossip Count: 1020
+Avg. Gossip/sec:6.91638
+Avg. Latency: 1.10122 (sec)
+Num. of Events: 3057
+Num. of Consensus Events: 3048
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 150.42300 (sec)
+Gossip Count: 1040
+Avg. Gossip/sec:6.91384
+Avg. Latency: 1.10202 (sec)
+Num. of Events: 3116
+Num. of Consensus Events: 3109
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 153.16900 (sec)
+Gossip Count: 1060
+Avg. Gossip/sec:6.92046
+Avg. Latency: 1.09897 (sec)
+Num. of Events: 3178
+Num. of Consensus Events: 3158
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 156.05600 (sec)
+Gossip Count: 1080
+Avg. Gossip/sec:6.92059
+Avg. Latency: 1.09483 (sec)
+Num. of Events: 3230
+Num. of Consensus Events: 3220
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 158.84300 (sec)
+Gossip Count: 1100
+Avg. Gossip/sec:6.92508
+Avg. Latency: 1.09234 (sec)
+Num. of Events: 3295
+Num. of Consensus Events: 3278
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 161.56300 (sec)
+Gossip Count: 1120
+Avg. Gossip/sec:6.93228
+Avg. Latency: 1.08840 (sec)
+Num. of Events: 3348
+Num. of Consensus Events: 3328
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 164.52300 (sec)
+Gossip Count: 1140
+Avg. Gossip/sec:6.92912
+Avg. Latency: 1.08867 (sec)
+Num. of Events: 3412
+Num. of Consensus Events: 3398
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 167.37200 (sec)
+Gossip Count: 1160
+Avg. Gossip/sec:6.93067
+Avg. Latency: 1.08515 (sec)
+Num. of Events: 3472
+Num. of Consensus Events: 3461
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 170.17200 (sec)
+Gossip Count: 1180
+Avg. Gossip/sec:6.93416
+Avg. Latency: 1.08456 (sec)
+Num. of Events: 3526
+Num. of Consensus Events: 3517
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 172.91900 (sec)
+Gossip Count: 1200
+Avg. Gossip/sec:6.93967
+Avg. Latency: 1.08346 (sec)
+Num. of Events: 3593
+Num. of Consensus Events: 3570
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 175.85900 (sec)
+Gossip Count: 1220
+Avg. Gossip/sec:6.93738
+Avg. Latency: 1.08325 (sec)
+Num. of Events: 3655
+Num. of Consensus Events: 3644
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 178.69300 (sec)
+Gossip Count: 1240
+Avg. Gossip/sec:6.93928
+Avg. Latency: 1.08087 (sec)
+Num. of Events: 3715
+Num. of Consensus Events: 3697
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 181.82000 (sec)
+Gossip Count: 1260
+Avg. Gossip/sec:6.92993
+Avg. Latency: 1.08364 (sec)
+Num. of Events: 3772
+Num. of Consensus Events: 3756
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 184.71300 (sec)
+Gossip Count: 1280
+Avg. Gossip/sec:6.92967
+Avg. Latency: 1.08339 (sec)
+Num. of Events: 3825
+Num. of Consensus Events: 3801
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 187.58600 (sec)
+Gossip Count: 1300
+Avg. Gossip/sec:6.93015
+Avg. Latency: 1.09011 (sec)
+Num. of Events: 3893
+Num. of Consensus Events: 3869
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 190.29900 (sec)
+Gossip Count: 1320
+Avg. Gossip/sec:6.93645
+Avg. Latency: 1.09072 (sec)
+Num. of Events: 3949
+Num. of Consensus Events: 3929
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 193.08600 (sec)
+Gossip Count: 1340
+Avg. Gossip/sec:6.93991
+Avg. Latency: 1.08926 (sec)
+Num. of Events: 4011
+Num. of Consensus Events: 3998
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 206.08900 (sec)
+Gossip Count: 1360
+Avg. Gossip/sec:6.59909
+Avg. Latency: 1.12096 (sec)
+Num. of Events: 4073
+Num. of Consensus Events: 4057
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 208.90600 (sec)
+Gossip Count: 1380
+Avg. Gossip/sec:6.60584
+Avg. Latency: 1.12677 (sec)
+Num. of Events: 4131
+Num. of Consensus Events: 4117
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 211.78300 (sec)
+Gossip Count: 1400
+Avg. Gossip/sec:6.61054
+Avg. Latency: 1.12628 (sec)
+Num. of Events: 4191
+Num. of Consensus Events: 4177
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 214.62300 (sec)
+Gossip Count: 1420
+Avg. Gossip/sec:6.61625
+Avg. Latency: 1.13021 (sec)
+Num. of Events: 4249
+Num. of Consensus Events: 4225
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 217.46000 (sec)
+Gossip Count: 1440
+Avg. Gossip/sec:6.62191
+Avg. Latency: 1.12985 (sec)
+Num. of Events: 4311
+Num. of Consensus Events: 4287
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 220.31300 (sec)
+Gossip Count: 1460
+Avg. Gossip/sec:6.62694
+Avg. Latency: 1.13042 (sec)
+Num. of Events: 4373
+Num. of Consensus Events: 4349
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 223.07300 (sec)
+Gossip Count: 1480
+Avg. Gossip/sec:6.63460
+Avg. Latency: 1.13162 (sec)
+Num. of Events: 4427
+Num. of Consensus Events: 4410
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 225.83900 (sec)
+Gossip Count: 1500
+Avg. Gossip/sec:6.64190
+Avg. Latency: 1.13191 (sec)
+Num. of Events: 4487
+Num. of Consensus Events: 4475
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 228.59300 (sec)
+Gossip Count: 1520
+Avg. Gossip/sec:6.64937
+Avg. Latency: 1.13109 (sec)
+Num. of Events: 4552
+Num. of Consensus Events: 4537
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 231.38900 (sec)
+Gossip Count: 1540
+Avg. Gossip/sec:6.65546
+Avg. Latency: 1.13101 (sec)
+Num. of Events: 4615
+Num. of Consensus Events: 4600
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 234.10600 (sec)
+Gossip Count: 1560
+Avg. Gossip/sec:6.66365
+Avg. Latency: 1.13145 (sec)
+Num. of Events: 4669
+Num. of Consensus Events: 4643
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 236.83200 (sec)
+Gossip Count: 1580
+Avg. Gossip/sec:6.67140
+Avg. Latency: 1.13204 (sec)
+Num. of Events: 4728
+Num. of Consensus Events: 4707
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 239.57900 (sec)
+Gossip Count: 1600
+Avg. Gossip/sec:6.67838
+Avg. Latency: 1.13014 (sec)
+Num. of Events: 4793
+Num. of Consensus Events: 4779
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 242.26300 (sec)
+Gossip Count: 1620
+Avg. Gossip/sec:6.68695
+Avg. Latency: 1.12751 (sec)
+Num. of Events: 4849
+Num. of Consensus Events: 4830
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 244.95600 (sec)
+Gossip Count: 1640
+Avg. Gossip/sec:6.69508
+Avg. Latency: 1.12564 (sec)
+Num. of Events: 4914
+Num. of Consensus Events: 4899
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 247.74300 (sec)
+Gossip Count: 1660
+Avg. Gossip/sec:6.70049
+Avg. Latency: 1.12350 (sec)
+Num. of Events: 4973
+Num. of Consensus Events: 4953
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 249.26900 (sec)
+Gossip Count: 1671
+Avg. Gossip/sec:6.70360
+Avg. Latency: 1.12567 (sec)
+Num. of Events: 5004
+Num. of Consensus Events: 4992
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 250.53600 (sec)
+Gossip Count: 1680
+Avg. Gossip/sec:6.70562
+Avg. Latency: 1.12533 (sec)
+Num. of Events: 5032
+Num. of Consensus Events: 5003
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 253.37300 (sec)
+Gossip Count: 1700
+Avg. Gossip/sec:6.70948
+Avg. Latency: 1.12755 (sec)
+Num. of Events: 5091
+Num. of Consensus Events: 5074
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 256.12300 (sec)
+Gossip Count: 1720
+Avg. Gossip/sec:6.71552
+Avg. Latency: 1.12751 (sec)
+Num. of Events: 5149
+Num. of Consensus Events: 5123
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 258.79200 (sec)
+Gossip Count: 1740
+Avg. Gossip/sec:6.72355
+Avg. Latency: 1.12977 (sec)
+Num. of Events: 5210
+Num. of Consensus Events: 5198
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 261.70300 (sec)
+Gossip Count: 1760
+Avg. Gossip/sec:6.72518
+Avg. Latency: 1.13024 (sec)
+Num. of Events: 5264
+Num. of Consensus Events: 5243
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 264.41600 (sec)
+Gossip Count: 1780
+Avg. Gossip/sec:6.73182
+Avg. Latency: 1.13187 (sec)
+Num. of Events: 5328
+Num. of Consensus Events: 5302
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 267.17600 (sec)
+Gossip Count: 1800
+Avg. Gossip/sec:6.73713
+Avg. Latency: 1.12945 (sec)
+Num. of Events: 5389
+Num. of Consensus Events: 5370
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 269.98600 (sec)
+Gossip Count: 1820
+Avg. Gossip/sec:6.74109
+Avg. Latency: 1.12697 (sec)
+Num. of Events: 5448
+Num. of Consensus Events: 5435
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 272.71600 (sec)
+Gossip Count: 1840
+Avg. Gossip/sec:6.74695
+Avg. Latency: 1.12542 (sec)
+Num. of Events: 5507
+Num. of Consensus Events: 5492
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 275.51600 (sec)
+Gossip Count: 1860
+Avg. Gossip/sec:6.75097
+Avg. Latency: 1.12390 (sec)
+Num. of Events: 5569
+Num. of Consensus Events: 5549
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 278.27300 (sec)
+Gossip Count: 1880
+Avg. Gossip/sec:6.75596
+Avg. Latency: 1.12444 (sec)
+Num. of Events: 5629
+Num. of Consensus Events: 5607
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 280.96600 (sec)
+Gossip Count: 1900
+Avg. Gossip/sec:6.76238
+Avg. Latency: 1.12460 (sec)
+Num. of Events: 5686
+Num. of Consensus Events: 5671
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 283.81000 (sec)
+Gossip Count: 1920
+Avg. Gossip/sec:6.76509
+Avg. Latency: 1.12420 (sec)
+Num. of Events: 5748
+Num. of Consensus Events: 5732
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 286.55200 (sec)
+Gossip Count: 1940
+Avg. Gossip/sec:6.77015
+Avg. Latency: 1.12460 (sec)
+Num. of Events: 5804
+Num. of Consensus Events: 5791
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 289.33900 (sec)
+Gossip Count: 1960
+Avg. Gossip/sec:6.77406
+Avg. Latency: 1.12317 (sec)
+Num. of Events: 5866
+Num. of Consensus Events: 5854
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 292.15300 (sec)
+Gossip Count: 1980
+Avg. Gossip/sec:6.77727
+Avg. Latency: 1.12197 (sec)
+Num. of Events: 5926
+Num. of Consensus Events: 5913
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 294.97600 (sec)
+Gossip Count: 2000
+Avg. Gossip/sec:6.78021
+Avg. Latency: 1.12151 (sec)
+Num. of Events: 5984
+Num. of Consensus Events: 5969
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 297.71600 (sec)
+Gossip Count: 2020
+Avg. Gossip/sec:6.78499
+Avg. Latency: 1.12101 (sec)
+Num. of Events: 6042
+Num. of Consensus Events: 6024
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 300.53600 (sec)
+Gossip Count: 2040
+Avg. Gossip/sec:6.78787
+Avg. Latency: 1.11938 (sec)
+Num. of Events: 6101
+Num. of Consensus Events: 6083
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 303.25600 (sec)
+Gossip Count: 2060
+Avg. Gossip/sec:6.79294
+Avg. Latency: 1.11802 (sec)
+Num. of Events: 6164
+Num. of Consensus Events: 6140
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 306.05600 (sec)
+Gossip Count: 2080
+Avg. Gossip/sec:6.79614
+Avg. Latency: 1.11705 (sec)
+Num. of Events: 6223
+Num. of Consensus Events: 6209
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 308.81900 (sec)
+Gossip Count: 2100
+Avg. Gossip/sec:6.80010
+Avg. Latency: 1.11572 (sec)
+Num. of Events: 6285
+Num. of Consensus Events: 6262
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 311.69900 (sec)
+Gossip Count: 2120
+Avg. Gossip/sec:6.80143
+Avg. Latency: 1.11611 (sec)
+Num. of Events: 6340
+Num. of Consensus Events: 6322
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 314.58300 (sec)
+Gossip Count: 2140
+Avg. Gossip/sec:6.80266
+Avg. Latency: 1.11750 (sec)
+Num. of Events: 6404
+Num. of Consensus Events: 6387
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 317.34600 (sec)
+Gossip Count: 2160
+Avg. Gossip/sec:6.80645
+Avg. Latency: 1.11661 (sec)
+Num. of Events: 6464
+Num. of Consensus Events: 6445
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 320.07300 (sec)
+Gossip Count: 2180
+Avg. Gossip/sec:6.81095
+Avg. Latency: 1.11460 (sec)
+Num. of Events: 6523
+Num. of Consensus Events: 6506
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 322.84600 (sec)
+Gossip Count: 2200
+Avg. Gossip/sec:6.81439
+Avg. Latency: 1.11356 (sec)
+Num. of Events: 6580
+Num. of Consensus Events: 6568
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 325.65300 (sec)
+Gossip Count: 2220
+Avg. Gossip/sec:6.81707
+Avg. Latency: 1.11306 (sec)
+Num. of Events: 6642
+Num. of Consensus Events: 6624
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 328.52600 (sec)
+Gossip Count: 2240
+Avg. Gossip/sec:6.81833
+Avg. Latency: 1.11477 (sec)
+Num. of Events: 6698
+Num. of Consensus Events: 6676
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 331.32600 (sec)
+Gossip Count: 2260
+Avg. Gossip/sec:6.82108
+Avg. Latency: 1.11448 (sec)
+Num. of Events: 6760
+Num. of Consensus Events: 6747
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 339.41600 (sec)
+Gossip Count: 2280
+Avg. Gossip/sec:6.71742
+Avg. Latency: 1.13126 (sec)
+Num. of Events: 6820
+Num. of Consensus Events: 6804
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 352.61200 (sec)
+Gossip Count: 2300
+Avg. Gossip/sec:6.52275
+Avg. Latency: 1.16748 (sec)
+Num. of Events: 6879
+Num. of Consensus Events: 6869
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 355.52600 (sec)
+Gossip Count: 2320
+Avg. Gossip/sec:6.52554
+Avg. Latency: 1.16832 (sec)
+Num. of Events: 6935
+Num. of Consensus Events: 6920
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 394.14300 (sec)
+Gossip Count: 2340
+Avg. Gossip/sec:5.93693
+Avg. Latency: 1.26005 (sec)
+Num. of Events: 6998
+Num. of Consensus Events: 6975
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 396.96600 (sec)
+Gossip Count: 2360
+Avg. Gossip/sec:5.94509
+Avg. Latency: 1.25750 (sec)
+Num. of Events: 7058
+Num. of Consensus Events: 7047
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 399.72600 (sec)
+Gossip Count: 2380
+Avg. Gossip/sec:5.95408
+Avg. Latency: 1.25589 (sec)
+Num. of Events: 7118
+Num. of Consensus Events: 7100
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 402.51600 (sec)
+Gossip Count: 2400
+Avg. Gossip/sec:5.96250
+Avg. Latency: 1.25430 (sec)
+Num. of Events: 7174
+Num. of Consensus Events: 7162
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 405.32300 (sec)
+Gossip Count: 2420
+Avg. Gossip/sec:5.97055
+Avg. Latency: 1.25185 (sec)
+Num. of Events: 7234
+Num. of Consensus Events: 7212
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 408.04900 (sec)
+Gossip Count: 2440
+Avg. Gossip/sec:5.97967
+Avg. Latency: 1.24902 (sec)
+Num. of Events: 7293
+Num. of Consensus Events: 7281
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 410.87600 (sec)
+Gossip Count: 2460
+Avg. Gossip/sec:5.98721
+Avg. Latency: 1.24728 (sec)
+Num. of Events: 7351
+Num. of Consensus Events: 7329
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 413.65600 (sec)
+Gossip Count: 2480
+Avg. Gossip/sec:5.99532
+Avg. Latency: 1.24608 (sec)
+Num. of Events: 7411
+Num. of Consensus Events: 7389
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 416.48000 (sec)
+Gossip Count: 2500
+Avg. Gossip/sec:6.00269
+Avg. Latency: 1.24538 (sec)
+Num. of Events: 7470
+Num. of Consensus Events: 7452
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 419.25900 (sec)
+Gossip Count: 2520
+Avg. Gossip/sec:6.01060
+Avg. Latency: 1.24348 (sec)
+Num. of Events: 7533
+Num. of Consensus Events: 7521
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 421.98200 (sec)
+Gossip Count: 2540
+Avg. Gossip/sec:6.01921
+Avg. Latency: 1.24090 (sec)
+Num. of Events: 7590
+Num. of Consensus Events: 7574
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 424.75200 (sec)
+Gossip Count: 2560
+Avg. Gossip/sec:6.02705
+Avg. Latency: 1.23954 (sec)
+Num. of Events: 7651
+Num. of Consensus Events: 7625
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 427.63300 (sec)
+Gossip Count: 2580
+Avg. Gossip/sec:6.03321
+Avg. Latency: 1.24112 (sec)
+Num. of Events: 7712
+Num. of Consensus Events: 7695
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 430.46600 (sec)
+Gossip Count: 2600
+Avg. Gossip/sec:6.03997
+Avg. Latency: 1.24081 (sec)
+Num. of Events: 7771
+Num. of Consensus Events: 7757
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 433.21900 (sec)
+Gossip Count: 2620
+Avg. Gossip/sec:6.04775
+Avg. Latency: 1.23770 (sec)
+Num. of Events: 7826
+Num. of Consensus Events: 7816
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 436.03900 (sec)
+Gossip Count: 2640
+Avg. Gossip/sec:6.05450
+Avg. Latency: 1.23580 (sec)
+Num. of Events: 7889
+Num. of Consensus Events: 7869
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 438.81900 (sec)
+Gossip Count: 2660
+Avg. Gossip/sec:6.06172
+Avg. Latency: 1.23402 (sec)
+Num. of Events: 7951
+Num. of Consensus Events: 7942
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 441.63900 (sec)
+Gossip Count: 2680
+Avg. Gossip/sec:6.06830
+Avg. Latency: 1.23312 (sec)
+Num. of Events: 8005
+Num. of Consensus Events: 7996
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 444.47600 (sec)
+Gossip Count: 2700
+Avg. Gossip/sec:6.07457
+Avg. Latency: 1.23175 (sec)
+Num. of Events: 8066
+Num. of Consensus Events: 8055
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 447.25200 (sec)
+Gossip Count: 2720
+Avg. Gossip/sec:6.08158
+Avg. Latency: 1.23048 (sec)
+Num. of Events: 8130
+Num. of Consensus Events: 8119
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 450.00300 (sec)
+Gossip Count: 2740
+Avg. Gossip/sec:6.08885
+Avg. Latency: 1.22924 (sec)
+Num. of Events: 8189
+Num. of Consensus Events: 8162
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 452.79300 (sec)
+Gossip Count: 2760
+Avg. Gossip/sec:6.09550
+Avg. Latency: 1.22709 (sec)
+Num. of Events: 8250
+Num. of Consensus Events: 8235
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 455.60600 (sec)
+Gossip Count: 2780
+Avg. Gossip/sec:6.10176
+Avg. Latency: 1.22615 (sec)
+Num. of Events: 8308
+Num. of Consensus Events: 8294
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 458.42600 (sec)
+Gossip Count: 2800
+Avg. Gossip/sec:6.10786
+Avg. Latency: 1.22370 (sec)
+Num. of Events: 8367
+Num. of Consensus Events: 8346
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 461.13600 (sec)
+Gossip Count: 2820
+Avg. Gossip/sec:6.11533
+Avg. Latency: 1.22118 (sec)
+Num. of Events: 8418
+Num. of Consensus Events: 8410
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 464.06300 (sec)
+Gossip Count: 2840
+Avg. Gossip/sec:6.11986
+Avg. Latency: 1.22063 (sec)
+Num. of Events: 8486
+Num. of Consensus Events: 8470
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 466.94300 (sec)
+Gossip Count: 2860
+Avg. Gossip/sec:6.12494
+Avg. Latency: 1.22049 (sec)
+Num. of Events: 8545
+Num. of Consensus Events: 8516
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 469.70300 (sec)
+Gossip Count: 2880
+Avg. Gossip/sec:6.13153
+Avg. Latency: 1.21934 (sec)
+Num. of Events: 8609
+Num. of Consensus Events: 8594
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 472.54900 (sec)
+Gossip Count: 2900
+Avg. Gossip/sec:6.13693
+Avg. Latency: 1.21795 (sec)
+Num. of Events: 8659
+Num. of Consensus Events: 8638
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 475.32900 (sec)
+Gossip Count: 2920
+Avg. Gossip/sec:6.14311
+Avg. Latency: 1.21728 (sec)
+Num. of Events: 8723
+Num. of Consensus Events: 8702
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 478.24300 (sec)
+Gossip Count: 2940
+Avg. Gossip/sec:6.14750
+Avg. Latency: 1.21573 (sec)
+Num. of Events: 8790
+Num. of Consensus Events: 8771
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 481.08900 (sec)
+Gossip Count: 2960
+Avg. Gossip/sec:6.15271
+Avg. Latency: 1.21409 (sec)
+Num. of Events: 8847
+Num. of Consensus Events: 8826
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 483.87600 (sec)
+Gossip Count: 2980
+Avg. Gossip/sec:6.15860
+Avg. Latency: 1.21239 (sec)
+Num. of Events: 8909
+Num. of Consensus Events: 8885
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 486.70600 (sec)
+Gossip Count: 3000
+Avg. Gossip/sec:6.16389
+Avg. Latency: 1.21103 (sec)
+Num. of Events: 8966
+Num. of Consensus Events: 8958
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 489.65300 (sec)
+Gossip Count: 3020
+Avg. Gossip/sec:6.16763
+Avg. Latency: 1.21022 (sec)
+Num. of Events: 9026
+Num. of Consensus Events: 9016
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 492.50600 (sec)
+Gossip Count: 3040
+Avg. Gossip/sec:6.17251
+Avg. Latency: 1.20983 (sec)
+Num. of Events: 9086
+Num. of Consensus Events: 9056
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 495.35900 (sec)
+Gossip Count: 3060
+Avg. Gossip/sec:6.17734
+Avg. Latency: 1.21016 (sec)
+Num. of Events: 9145
+Num. of Consensus Events: 9127
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 498.28300 (sec)
+Gossip Count: 3080
+Avg. Gossip/sec:6.18123
+Avg. Latency: 1.20820 (sec)
+Num. of Events: 9206
+Num. of Consensus Events: 9191
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 501.20600 (sec)
+Gossip Count: 3100
+Avg. Gossip/sec:6.18508
+Avg. Latency: 1.20738 (sec)
+Num. of Events: 9268
+Num. of Consensus Events: 9247
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 503.98600 (sec)
+Gossip Count: 3120
+Avg. Gossip/sec:6.19065
+Avg. Latency: 1.20691 (sec)
+Num. of Events: 9327
+Num. of Consensus Events: 9305
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 506.80600 (sec)
+Gossip Count: 3140
+Avg. Gossip/sec:6.19566
+Avg. Latency: 1.20612 (sec)
+Num. of Events: 9384
+Num. of Consensus Events: 9368
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 509.67600 (sec)
+Gossip Count: 3160
+Avg. Gossip/sec:6.20002
+Avg. Latency: 1.20590 (sec)
+Num. of Events: 9447
+Num. of Consensus Events: 9427
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 512.56200 (sec)
+Gossip Count: 3180
+Avg. Gossip/sec:6.20413
+Avg. Latency: 1.20535 (sec)
+Num. of Events: 9504
+Num. of Consensus Events: 9492
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 515.42300 (sec)
+Gossip Count: 3200
+Avg. Gossip/sec:6.20849
+Avg. Latency: 1.20522 (sec)
+Num. of Events: 9561
+Num. of Consensus Events: 9542
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 518.30200 (sec)
+Gossip Count: 3220
+Avg. Gossip/sec:6.21259
+Avg. Latency: 1.20446 (sec)
+Num. of Events: 9628
+Num. of Consensus Events: 9599
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 521.20300 (sec)
+Gossip Count: 3240
+Avg. Gossip/sec:6.21639
+Avg. Latency: 1.20410 (sec)
+Num. of Events: 9689
+Num. of Consensus Events: 9671
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 524.02900 (sec)
+Gossip Count: 3260
+Avg. Gossip/sec:6.22103
+Avg. Latency: 1.20228 (sec)
+Num. of Events: 9748
+Num. of Consensus Events: 9739
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 526.89600 (sec)
+Gossip Count: 3280
+Avg. Gossip/sec:6.22514
+Avg. Latency: 1.20162 (sec)
+Num. of Events: 9807
+Num. of Consensus Events: 9777
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 529.72900 (sec)
+Gossip Count: 3300
+Avg. Gossip/sec:6.22960
+Avg. Latency: 1.20070 (sec)
+Num. of Events: 9868
+Num. of Consensus Events: 9851
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 532.56300 (sec)
+Gossip Count: 3320
+Avg. Gossip/sec:6.23400
+Avg. Latency: 1.20023 (sec)
+Num. of Events: 9924
+Num. of Consensus Events: 9903
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 535.43600 (sec)
+Gossip Count: 3340
+Avg. Gossip/sec:6.23791
+Avg. Latency: 1.19929 (sec)
+Num. of Events: 9988
+Num. of Consensus Events: 9968
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 538.29900 (sec)
+Gossip Count: 3360
+Avg. Gossip/sec:6.24188
+Avg. Latency: 1.19912 (sec)
+Num. of Events: 10048
+Num. of Consensus Events: 10023
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 541.21600 (sec)
+Gossip Count: 3380
+Avg. Gossip/sec:6.24520
+Avg. Latency: 1.19787 (sec)
+Num. of Events: 10108
+Num. of Consensus Events: 10091
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 544.01900 (sec)
+Gossip Count: 3400
+Avg. Gossip/sec:6.24978
+Avg. Latency: 1.19774 (sec)
+Num. of Events: 10168
+Num. of Consensus Events: 10148
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 546.79600 (sec)
+Gossip Count: 3420
+Avg. Gossip/sec:6.25462
+Avg. Latency: 1.19652 (sec)
+Num. of Events: 10227
+Num. of Consensus Events: 10207
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 549.70000 (sec)
+Gossip Count: 3440
+Avg. Gossip/sec:6.25796
+Avg. Latency: 1.19632 (sec)
+Num. of Events: 10287
+Num. of Consensus Events: 10266
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 552.47600 (sec)
+Gossip Count: 3460
+Avg. Gossip/sec:6.26272
+Avg. Latency: 1.19567 (sec)
+Num. of Events: 10349
+Num. of Consensus Events: 10326
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 555.30900 (sec)
+Gossip Count: 3480
+Avg. Gossip/sec:6.26678
+Avg. Latency: 1.19527 (sec)
+Num. of Events: 10408
+Num. of Consensus Events: 10388
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 558.10300 (sec)
+Gossip Count: 3500
+Avg. Gossip/sec:6.27124
+Avg. Latency: 1.19594 (sec)
+Num. of Events: 10463
+Num. of Consensus Events: 10435
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 560.92300 (sec)
+Gossip Count: 3520
+Avg. Gossip/sec:6.27537
+Avg. Latency: 1.19541 (sec)
+Num. of Events: 10523
+Num. of Consensus Events: 10507
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 563.74300 (sec)
+Gossip Count: 3540
+Avg. Gossip/sec:6.27946
+Avg. Latency: 1.19461 (sec)
+Num. of Events: 10589
+Num. of Consensus Events: 10568
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 566.56900 (sec)
+Gossip Count: 3560
+Avg. Gossip/sec:6.28344
+Avg. Latency: 1.19490 (sec)
+Num. of Events: 10645
+Num. of Consensus Events: 10631
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 569.53600 (sec)
+Gossip Count: 3580
+Avg. Gossip/sec:6.28582
+Avg. Latency: 1.19424 (sec)
+Num. of Events: 10705
+Num. of Consensus Events: 10686
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 573.41600 (sec)
+Gossip Count: 3600
+Avg. Gossip/sec:6.27816
+Avg. Latency: 1.19401 (sec)
+Num. of Events: 10767
+Num. of Consensus Events: 10755
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 576.25900 (sec)
+Gossip Count: 3620
+Avg. Gossip/sec:6.28190
+Avg. Latency: 1.19346 (sec)
+Num. of Events: 10826
+Num. of Consensus Events: 10810
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 579.08300 (sec)
+Gossip Count: 3640
+Avg. Gossip/sec:6.28580
+Avg. Latency: 1.19268 (sec)
+Num. of Events: 10888
+Num. of Consensus Events: 10866
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 581.96300 (sec)
+Gossip Count: 3660
+Avg. Gossip/sec:6.28906
+Avg. Latency: 1.19151 (sec)
+Num. of Events: 10944
+Num. of Consensus Events: 10929
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 584.83600 (sec)
+Gossip Count: 3680
+Avg. Gossip/sec:6.29236
+Avg. Latency: 1.19082 (sec)
+Num. of Events: 11008
+Num. of Consensus Events: 10985
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 587.67600 (sec)
+Gossip Count: 3700
+Avg. Gossip/sec:6.29599
+Avg. Latency: 1.19045 (sec)
+Num. of Events: 11068
+Num. of Consensus Events: 11049
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 590.45700 (sec)
+Gossip Count: 3720
+Avg. Gossip/sec:6.30020
+Avg. Latency: 1.18944 (sec)
+Num. of Events: 11128
+Num. of Consensus Events: 11106
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 593.29600 (sec)
+Gossip Count: 3740
+Avg. Gossip/sec:6.30377
+Avg. Latency: 1.18890 (sec)
+Num. of Events: 11184
+Num. of Consensus Events: 11160
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 596.07600 (sec)
+Gossip Count: 3760
+Avg. Gossip/sec:6.30792
+Avg. Latency: 1.18738 (sec)
+Num. of Events: 11243
+Num. of Consensus Events: 11223
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 598.84900 (sec)
+Gossip Count: 3780
+Avg. Gossip/sec:6.31211
+Avg. Latency: 1.18770 (sec)
+Num. of Events: 11302
+Num. of Consensus Events: 11288
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 609.16300 (sec)
+Gossip Count: 3800
+Avg. Gossip/sec:6.23807
+Avg. Latency: 1.19270 (sec)
+Num. of Events: 11363
+Num. of Consensus Events: 11346
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 612.54600 (sec)
+Gossip Count: 3820
+Avg. Gossip/sec:6.23627
+Avg. Latency: 1.19751 (sec)
+Num. of Events: 11420
+Num. of Consensus Events: 11408
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 615.44900 (sec)
+Gossip Count: 3840
+Avg. Gossip/sec:6.23935
+Avg. Latency: 1.19685 (sec)
+Num. of Events: 11477
+Num. of Consensus Events: 11462
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 618.33200 (sec)
+Gossip Count: 3860
+Avg. Gossip/sec:6.24260
+Avg. Latency: 1.19555 (sec)
+Num. of Events: 11540
+Num. of Consensus Events: 11523
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 621.12600 (sec)
+Gossip Count: 3880
+Avg. Gossip/sec:6.24672
+Avg. Latency: 1.19385 (sec)
+Num. of Events: 11601
+Num. of Consensus Events: 11585
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 623.89900 (sec)
+Gossip Count: 3900
+Avg. Gossip/sec:6.25101
+Avg. Latency: 1.19325 (sec)
+Num. of Events: 11657
+Num. of Consensus Events: 11631
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 626.71900 (sec)
+Gossip Count: 3920
+Avg. Gossip/sec:6.25480
+Avg. Latency: 1.19279 (sec)
+Num. of Events: 11723
+Num. of Consensus Events: 11702
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 629.50600 (sec)
+Gossip Count: 3940
+Avg. Gossip/sec:6.25888
+Avg. Latency: 1.19215 (sec)
+Num. of Events: 11783
+Num. of Consensus Events: 11762
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 632.34300 (sec)
+Gossip Count: 3960
+Avg. Gossip/sec:6.26242
+Avg. Latency: 1.19211 (sec)
+Num. of Events: 11839
+Num. of Consensus Events: 11828
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 635.29600 (sec)
+Gossip Count: 3980
+Avg. Gossip/sec:6.26480
+Avg. Latency: 1.19059 (sec)
+Num. of Events: 11903
+Num. of Consensus Events: 11892
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 638.11300 (sec)
+Gossip Count: 4000
+Avg. Gossip/sec:6.26848
+Avg. Latency: 1.19017 (sec)
+Num. of Events: 11961
+Num. of Consensus Events: 11934
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 641.11900 (sec)
+Gossip Count: 4020
+Avg. Gossip/sec:6.27029
+Avg. Latency: 1.18941 (sec)
+Num. of Events: 12023
+Num. of Consensus Events: 12006
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 644.07600 (sec)
+Gossip Count: 4040
+Avg. Gossip/sec:6.27255
+Avg. Latency: 1.18941 (sec)
+Num. of Events: 12082
+Num. of Consensus Events: 12068
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 646.90900 (sec)
+Gossip Count: 4060
+Avg. Gossip/sec:6.27600
+Avg. Latency: 1.18870 (sec)
+Num. of Events: 12140
+Num. of Consensus Events: 12130
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 649.82300 (sec)
+Gossip Count: 4080
+Avg. Gossip/sec:6.27863
+Avg. Latency: 1.18885 (sec)
+Num. of Events: 12200
+Num. of Consensus Events: 12189
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 652.77900 (sec)
+Gossip Count: 4100
+Avg. Gossip/sec:6.28084
+Avg. Latency: 1.18839 (sec)
+Num. of Events: 12264
+Num. of Consensus Events: 12246
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 655.76300 (sec)
+Gossip Count: 4120
+Avg. Gossip/sec:6.28276
+Avg. Latency: 1.18828 (sec)
+Num. of Events: 12315
+Num. of Consensus Events: 12302
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 658.66300 (sec)
+Gossip Count: 4140
+Avg. Gossip/sec:6.28546
+Avg. Latency: 1.18707 (sec)
+Num. of Events: 12385
+Num. of Consensus Events: 12371
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 661.68900 (sec)
+Gossip Count: 4160
+Avg. Gossip/sec:6.28694
+Avg. Latency: 1.18706 (sec)
+Num. of Events: 12444
+Num. of Consensus Events: 12428
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 664.57200 (sec)
+Gossip Count: 4180
+Avg. Gossip/sec:6.28976
+Avg. Latency: 1.18666 (sec)
+Num. of Events: 12504
+Num. of Consensus Events: 12487
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 667.53900 (sec)
+Gossip Count: 4200
+Avg. Gossip/sec:6.29177
+Avg. Latency: 1.18649 (sec)
+Num. of Events: 12565
+Num. of Consensus Events: 12546
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 670.47300 (sec)
+Gossip Count: 4220
+Avg. Gossip/sec:6.29406
+Avg. Latency: 1.18590 (sec)
+Num. of Events: 12619
+Num. of Consensus Events: 12601
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 673.44600 (sec)
+Gossip Count: 4240
+Avg. Gossip/sec:6.29598
+Avg. Latency: 1.18520 (sec)
+Num. of Events: 12685
+Num. of Consensus Events: 12671
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 676.49300 (sec)
+Gossip Count: 4260
+Avg. Gossip/sec:6.29718
+Avg. Latency: 1.18495 (sec)
+Num. of Events: 12738
+Num. of Consensus Events: 12716
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 679.50200 (sec)
+Gossip Count: 4280
+Avg. Gossip/sec:6.29873
+Avg. Latency: 1.18477 (sec)
+Num. of Events: 12800
+Num. of Consensus Events: 12783
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 682.49600 (sec)
+Gossip Count: 4300
+Avg. Gossip/sec:6.30040
+Avg. Latency: 1.18443 (sec)
+Num. of Events: 12860
+Num. of Consensus Events: 12847
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 685.38600 (sec)
+Gossip Count: 4320
+Avg. Gossip/sec:6.30302
+Avg. Latency: 1.18306 (sec)
+Num. of Events: 12925
+Num. of Consensus Events: 12910
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 688.32000 (sec)
+Gossip Count: 4340
+Avg. Gossip/sec:6.30521
+Avg. Latency: 1.18156 (sec)
+Num. of Events: 12985
+Num. of Consensus Events: 12976
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 691.29900 (sec)
+Gossip Count: 4360
+Avg. Gossip/sec:6.30697
+Avg. Latency: 1.18167 (sec)
+Num. of Events: 13043
+Num. of Consensus Events: 13031
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 694.25600 (sec)
+Gossip Count: 4380
+Avg. Gossip/sec:6.30891
+Avg. Latency: 1.18100 (sec)
+Num. of Events: 13105
+Num. of Consensus Events: 13088
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 697.32600 (sec)
+Gossip Count: 4400
+Avg. Gossip/sec:6.30982
+Avg. Latency: 1.18046 (sec)
+Num. of Events: 13166
+Num. of Consensus Events: 13160
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 700.22300 (sec)
+Gossip Count: 4420
+Avg. Gossip/sec:6.31227
+Avg. Latency: 1.17998 (sec)
+Num. of Events: 13226
+Num. of Consensus Events: 13206
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 703.41900 (sec)
+Gossip Count: 4440
+Avg. Gossip/sec:6.31203
+Avg. Latency: 1.18047 (sec)
+Num. of Events: 13288
+Num. of Consensus Events: 13278
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 706.33300 (sec)
+Gossip Count: 4460
+Avg. Gossip/sec:6.31430
+Avg. Latency: 1.17924 (sec)
+Num. of Events: 13347
+Num. of Consensus Events: 13336
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 709.24600 (sec)
+Gossip Count: 4480
+Avg. Gossip/sec:6.31657
+Avg. Latency: 1.17859 (sec)
+Num. of Events: 13407
+Num. of Consensus Events: 13385
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 712.26200 (sec)
+Gossip Count: 4500
+Avg. Gossip/sec:6.31790
+Avg. Latency: 1.17974 (sec)
+Num. of Events: 13465
+Num. of Consensus Events: 13447
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 715.31300 (sec)
+Gossip Count: 4520
+Avg. Gossip/sec:6.31891
+Avg. Latency: 1.18040 (sec)
+Num. of Events: 13528
+Num. of Consensus Events: 13514
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 718.24000 (sec)
+Gossip Count: 4540
+Avg. Gossip/sec:6.32101
+Avg. Latency: 1.17994 (sec)
+Num. of Events: 13586
+Num. of Consensus Events: 13568
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 721.17900 (sec)
+Gossip Count: 4560
+Avg. Gossip/sec:6.32298
+Avg. Latency: 1.17994 (sec)
+Num. of Events: 13648
+Num. of Consensus Events: 13629
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 724.15900 (sec)
+Gossip Count: 4580
+Avg. Gossip/sec:6.32458
+Avg. Latency: 1.17997 (sec)
+Num. of Events: 13708
+Num. of Consensus Events: 13685
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 727.07900 (sec)
+Gossip Count: 4600
+Avg. Gossip/sec:6.32669
+Avg. Latency: 1.17892 (sec)
+Num. of Events: 13767
+Num. of Consensus Events: 13751
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 730.05300 (sec)
+Gossip Count: 4620
+Avg. Gossip/sec:6.32831
+Avg. Latency: 1.17887 (sec)
+Num. of Events: 13828
+Num. of Consensus Events: 13816
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 733.03200 (sec)
+Gossip Count: 4640
+Avg. Gossip/sec:6.32987
+Avg. Latency: 1.17889 (sec)
+Num. of Events: 13887
+Num. of Consensus Events: 13858
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 735.96300 (sec)
+Gossip Count: 4660
+Avg. Gossip/sec:6.33184
+Avg. Latency: 1.17821 (sec)
+Num. of Events: 13949
+Num. of Consensus Events: 13936
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 739.00600 (sec)
+Gossip Count: 4680
+Avg. Gossip/sec:6.33283
+Avg. Latency: 1.17860 (sec)
+Num. of Events: 14007
+Num. of Consensus Events: 13975
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 742.00900 (sec)
+Gossip Count: 4700
+Avg. Gossip/sec:6.33415
+Avg. Latency: 1.17931 (sec)
+Num. of Events: 14065
+Num. of Consensus Events: 14041
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 744.92600 (sec)
+Gossip Count: 4720
+Avg. Gossip/sec:6.33620
+Avg. Latency: 1.17894 (sec)
+Num. of Events: 14127
+Num. of Consensus Events: 14116
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 747.90600 (sec)
+Gossip Count: 4740
+Avg. Gossip/sec:6.33769
+Avg. Latency: 1.17839 (sec)
+Num. of Events: 14188
+Num. of Consensus Events: 14168
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 750.92200 (sec)
+Gossip Count: 4760
+Avg. Gossip/sec:6.33887
+Avg. Latency: 1.17916 (sec)
+Num. of Events: 14248
+Num. of Consensus Events: 14212
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 753.92300 (sec)
+Gossip Count: 4780
+Avg. Gossip/sec:6.34017
+Avg. Latency: 1.17863 (sec)
+Num. of Events: 14303
+Num. of Consensus Events: 14285
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 756.90600 (sec)
+Gossip Count: 4800
+Avg. Gossip/sec:6.34161
+Avg. Latency: 1.17851 (sec)
+Num. of Events: 14366
+Num. of Consensus Events: 14357
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 759.89300 (sec)
+Gossip Count: 4820
+Avg. Gossip/sec:6.34300
+Avg. Latency: 1.17867 (sec)
+Num. of Events: 14428
+Num. of Consensus Events: 14417
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 762.85900 (sec)
+Gossip Count: 4840
+Avg. Gossip/sec:6.34455
+Avg. Latency: 1.17805 (sec)
+Num. of Events: 14486
+Num. of Consensus Events: 14469
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 765.84600 (sec)
+Gossip Count: 4860
+Avg. Gossip/sec:6.34592
+Avg. Latency: 1.17858 (sec)
+Num. of Events: 14549
+Num. of Consensus Events: 14530
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 768.80600 (sec)
+Gossip Count: 4880
+Avg. Gossip/sec:6.34751
+Avg. Latency: 1.17924 (sec)
+Num. of Events: 14606
+Num. of Consensus Events: 14585
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 771.80900 (sec)
+Gossip Count: 4900
+Avg. Gossip/sec:6.34872
+Avg. Latency: 1.17938 (sec)
+Num. of Events: 14665
+Num. of Consensus Events: 14636
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 775.78300 (sec)
+Gossip Count: 4920
+Avg. Gossip/sec:6.34198
+Avg. Latency: 1.18036 (sec)
+Num. of Events: 14729
+Num. of Consensus Events: 14704
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 780.02900 (sec)
+Gossip Count: 4940
+Avg. Gossip/sec:6.33310
+Avg. Latency: 1.18399 (sec)
+Num. of Events: 14786
+Num. of Consensus Events: 14770
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 782.99600 (sec)
+Gossip Count: 4960
+Avg. Gossip/sec:6.33464
+Avg. Latency: 1.18460 (sec)
+Num. of Events: 14844
+Num. of Consensus Events: 14824
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 785.88600 (sec)
+Gossip Count: 4980
+Avg. Gossip/sec:6.33680
+Avg. Latency: 1.18367 (sec)
+Num. of Events: 14906
+Num. of Consensus Events: 14887
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 788.83300 (sec)
+Gossip Count: 5000
+Avg. Gossip/sec:6.33848
+Avg. Latency: 1.18310 (sec)
+Num. of Events: 14966
+Num. of Consensus Events: 14945
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 791.82600 (sec)
+Gossip Count: 5020
+Avg. Gossip/sec:6.33978
+Avg. Latency: 1.18248 (sec)
+Num. of Events: 15024
+Num. of Consensus Events: 14994
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 794.77300 (sec)
+Gossip Count: 5040
+Avg. Gossip/sec:6.34143
+Avg. Latency: 1.18313 (sec)
+Num. of Events: 15086
+Num. of Consensus Events: 15063
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 797.79300 (sec)
+Gossip Count: 5060
+Avg. Gossip/sec:6.34250
+Avg. Latency: 1.18299 (sec)
+Num. of Events: 15146
+Num. of Consensus Events: 15137
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 800.63600 (sec)
+Gossip Count: 5080
+Avg. Gossip/sec:6.34496
+Avg. Latency: 1.18311 (sec)
+Num. of Events: 15201
+Num. of Consensus Events: 15177
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 805.25900 (sec)
+Gossip Count: 5100
+Avg. Gossip/sec:6.33337
+Avg. Latency: 1.18442 (sec)
+Num. of Events: 15273
+Num. of Consensus Events: 15236
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 808.53600 (sec)
+Gossip Count: 5120
+Avg. Gossip/sec:6.33243
+Avg. Latency: 1.18799 (sec)
+Num. of Events: 15331
+Num. of Consensus Events: 15308
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 811.62600 (sec)
+Gossip Count: 5140
+Avg. Gossip/sec:6.33297
+Avg. Latency: 1.18972 (sec)
+Num. of Events: 15391
+Num. of Consensus Events: 15378
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 814.55200 (sec)
+Gossip Count: 5160
+Avg. Gossip/sec:6.33477
+Avg. Latency: 1.18929 (sec)
+Num. of Events: 15453
+Num. of Consensus Events: 15433
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 817.46300 (sec)
+Gossip Count: 5180
+Avg. Gossip/sec:6.33668
+Avg. Latency: 1.18881 (sec)
+Num. of Events: 15512
+Num. of Consensus Events: 15498
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 820.37600 (sec)
+Gossip Count: 5200
+Avg. Gossip/sec:6.33856
+Avg. Latency: 1.18814 (sec)
+Num. of Events: 15574
+Num. of Consensus Events: 15550
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 823.34600 (sec)
+Gossip Count: 5220
+Avg. Gossip/sec:6.33998
+Avg. Latency: 1.18747 (sec)
+Num. of Events: 15637
+Num. of Consensus Events: 15615
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 827.41600 (sec)
+Gossip Count: 5240
+Avg. Gossip/sec:6.33297
+Avg. Latency: 1.19015 (sec)
+Num. of Events: 15697
+Num. of Consensus Events: 15681
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 830.36300 (sec)
+Gossip Count: 5260
+Avg. Gossip/sec:6.33458
+Avg. Latency: 1.18993 (sec)
+Num. of Events: 15753
+Num. of Consensus Events: 15739
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 833.25600 (sec)
+Gossip Count: 5280
+Avg. Gossip/sec:6.33659
+Avg. Latency: 1.18934 (sec)
+Num. of Events: 15814
+Num. of Consensus Events: 15796
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 836.29300 (sec)
+Gossip Count: 5300
+Avg. Gossip/sec:6.33749
+Avg. Latency: 1.18940 (sec)
+Num. of Events: 15875
+Num. of Consensus Events: 15862
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 839.22900 (sec)
+Gossip Count: 5320
+Avg. Gossip/sec:6.33915
+Avg. Latency: 1.18856 (sec)
+Num. of Events: 15937
+Num. of Consensus Events: 15908
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 842.26900 (sec)
+Gossip Count: 5340
+Avg. Gossip/sec:6.34002
+Avg. Latency: 1.18846 (sec)
+Num. of Events: 15995
+Num. of Consensus Events: 15972
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 845.20900 (sec)
+Gossip Count: 5360
+Avg. Gossip/sec:6.34163
+Avg. Latency: 1.18780 (sec)
+Num. of Events: 16049
+Num. of Consensus Events: 16039
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 848.19300 (sec)
+Gossip Count: 5380
+Avg. Gossip/sec:6.34290
+Avg. Latency: 1.18785 (sec)
+Num. of Events: 16115
+Num. of Consensus Events: 16097
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 851.13900 (sec)
+Gossip Count: 5400
+Avg. Gossip/sec:6.34444
+Avg. Latency: 1.18774 (sec)
+Num. of Events: 16173
+Num. of Consensus Events: 16154
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 854.01300 (sec)
+Gossip Count: 5420
+Avg. Gossip/sec:6.34651
+Avg. Latency: 1.18725 (sec)
+Num. of Events: 16231
+Num. of Consensus Events: 16220
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 856.91300 (sec)
+Gossip Count: 5440
+Avg. Gossip/sec:6.34837
+Avg. Latency: 1.18620 (sec)
+Num. of Events: 16291
+Num. of Consensus Events: 16282
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 860.09300 (sec)
+Gossip Count: 5460
+Avg. Gossip/sec:6.34815
+Avg. Latency: 1.18530 (sec)
+Num. of Events: 16355
+Num. of Consensus Events: 16340
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 863.03600 (sec)
+Gossip Count: 5480
+Avg. Gossip/sec:6.34968
+Avg. Latency: 1.18530 (sec)
+Num. of Events: 16417
+Num. of Consensus Events: 16398
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 865.94600 (sec)
+Gossip Count: 5500
+Avg. Gossip/sec:6.35144
+Avg. Latency: 1.18483 (sec)
+Num. of Events: 16475
+Num. of Consensus Events: 16454
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 868.93900 (sec)
+Gossip Count: 5520
+Avg. Gossip/sec:6.35257
+Avg. Latency: 1.18375 (sec)
+Num. of Events: 16533
+Num. of Consensus Events: 16515
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 871.88200 (sec)
+Gossip Count: 5540
+Avg. Gossip/sec:6.35407
+Avg. Latency: 1.18355 (sec)
+Num. of Events: 16596
+Num. of Consensus Events: 16573
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 874.84600 (sec)
+Gossip Count: 5560
+Avg. Gossip/sec:6.35540
+Avg. Latency: 1.18332 (sec)
+Num. of Events: 16655
+Num. of Consensus Events: 16640
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 877.80900 (sec)
+Gossip Count: 5580
+Avg. Gossip/sec:6.35674
+Avg. Latency: 1.18348 (sec)
+Num. of Events: 16718
+Num. of Consensus Events: 16685
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 880.79600 (sec)
+Gossip Count: 5600
+Avg. Gossip/sec:6.35789
+Avg. Latency: 1.18383 (sec)
+Num. of Events: 16778
+Num. of Consensus Events: 16767
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 883.75900 (sec)
+Gossip Count: 5620
+Avg. Gossip/sec:6.35920
+Avg. Latency: 1.18338 (sec)
+Num. of Events: 16832
+Num. of Consensus Events: 16822
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 886.70900 (sec)
+Gossip Count: 5640
+Avg. Gossip/sec:6.36060
+Avg. Latency: 1.18271 (sec)
+Num. of Events: 16895
+Num. of Consensus Events: 16872
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 889.51200 (sec)
+Gossip Count: 5660
+Avg. Gossip/sec:6.36304
+Avg. Latency: 1.18185 (sec)
+Num. of Events: 16957
+Num. of Consensus Events: 16941
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 892.50600 (sec)
+Gossip Count: 5680
+Avg. Gossip/sec:6.36410
+Avg. Latency: 1.18181 (sec)
+Num. of Events: 17017
+Num. of Consensus Events: 17001
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 895.49300 (sec)
+Gossip Count: 5700
+Avg. Gossip/sec:6.36521
+Avg. Latency: 1.18207 (sec)
+Num. of Events: 17077
+Num. of Consensus Events: 17064
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 898.36200 (sec)
+Gossip Count: 5720
+Avg. Gossip/sec:6.36714
+Avg. Latency: 1.18199 (sec)
+Num. of Events: 17129
+Num. of Consensus Events: 17119
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 901.26900 (sec)
+Gossip Count: 5740
+Avg. Gossip/sec:6.36880
+Avg. Latency: 1.18131 (sec)
+Num. of Events: 17195
+Num. of Consensus Events: 17181
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 904.27200 (sec)
+Gossip Count: 5760
+Avg. Gossip/sec:6.36976
+Avg. Latency: 1.18148 (sec)
+Num. of Events: 17254
+Num. of Consensus Events: 17241
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 907.16300 (sec)
+Gossip Count: 5780
+Avg. Gossip/sec:6.37151
+Avg. Latency: 1.18046 (sec)
+Num. of Events: 17315
+Num. of Consensus Events: 17303
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 910.13200 (sec)
+Gossip Count: 5800
+Avg. Gossip/sec:6.37270
+Avg. Latency: 1.18024 (sec)
+Num. of Events: 17367
+Num. of Consensus Events: 17348
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 913.03600 (sec)
+Gossip Count: 5820
+Avg. Gossip/sec:6.37434
+Avg. Latency: 1.18015 (sec)
+Num. of Events: 17436
+Num. of Consensus Events: 17421
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 915.94600 (sec)
+Gossip Count: 5840
+Avg. Gossip/sec:6.37592
+Avg. Latency: 1.17985 (sec)
+Num. of Events: 17494
+Num. of Consensus Events: 17472
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 918.92600 (sec)
+Gossip Count: 5860
+Avg. Gossip/sec:6.37701
+Avg. Latency: 1.17961 (sec)
+Num. of Events: 17549
+Num. of Consensus Events: 17532
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 921.84600 (sec)
+Gossip Count: 5880
+Avg. Gossip/sec:6.37851
+Avg. Latency: 1.17898 (sec)
+Num. of Events: 17614
+Num. of Consensus Events: 17597
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 924.77300 (sec)
+Gossip Count: 5900
+Avg. Gossip/sec:6.37994
+Avg. Latency: 1.17851 (sec)
+Num. of Events: 17674
+Num. of Consensus Events: 17652
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 927.66600 (sec)
+Gossip Count: 5920
+Avg. Gossip/sec:6.38161
+Avg. Latency: 1.17794 (sec)
+Num. of Events: 17732
+Num. of Consensus Events: 17713
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 930.69200 (sec)
+Gossip Count: 5940
+Avg. Gossip/sec:6.38235
+Avg. Latency: 1.17778 (sec)
+Num. of Events: 17794
+Num. of Consensus Events: 17774
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 933.47900 (sec)
+Gossip Count: 5960
+Avg. Gossip/sec:6.38472
+Avg. Latency: 1.17776 (sec)
+Num. of Events: 17853
+Num. of Consensus Events: 17835
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 936.25600 (sec)
+Gossip Count: 5980
+Avg. Gossip/sec:6.38714
+Avg. Latency: 1.17721 (sec)
+Num. of Events: 17912
+Num. of Consensus Events: 17900
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 939.12600 (sec)
+Gossip Count: 6000
+Avg. Gossip/sec:6.38892
+Avg. Latency: 1.17684 (sec)
+Num. of Events: 17963
+Num. of Consensus Events: 17943
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 942.05900 (sec)
+Gossip Count: 6020
+Avg. Gossip/sec:6.39026
+Avg. Latency: 1.17703 (sec)
+Num. of Events: 18031
+Num. of Consensus Events: 18016
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 944.91900 (sec)
+Gossip Count: 6040
+Avg. Gossip/sec:6.39208
+Avg. Latency: 1.17625 (sec)
+Num. of Events: 18091
+Num. of Consensus Events: 18070
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 947.78200 (sec)
+Gossip Count: 6060
+Avg. Gossip/sec:6.39388
+Avg. Latency: 1.17565 (sec)
+Num. of Events: 18143
+Num. of Consensus Events: 18122
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 950.68900 (sec)
+Gossip Count: 6080
+Avg. Gossip/sec:6.39536
+Avg. Latency: 1.17546 (sec)
+Num. of Events: 18205
+Num. of Consensus Events: 18196
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 953.62300 (sec)
+Gossip Count: 6100
+Avg. Gossip/sec:6.39666
+Avg. Latency: 1.17522 (sec)
+Num. of Events: 18273
+Num. of Consensus Events: 18253
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 956.61900 (sec)
+Gossip Count: 6120
+Avg. Gossip/sec:6.39753
+Avg. Latency: 1.17468 (sec)
+Num. of Events: 18330
+Num. of Consensus Events: 18316
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 959.51200 (sec)
+Gossip Count: 6140
+Avg. Gossip/sec:6.39909
+Avg. Latency: 1.17489 (sec)
+Num. of Events: 18383
+Num. of Consensus Events: 18368
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 962.45900 (sec)
+Gossip Count: 6160
+Avg. Gossip/sec:6.40027
+Avg. Latency: 1.17450 (sec)
+Num. of Events: 18450
+Num. of Consensus Events: 18428
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 965.37900 (sec)
+Gossip Count: 6180
+Avg. Gossip/sec:6.40163
+Avg. Latency: 1.17396 (sec)
+Num. of Events: 18511
+Num. of Consensus Events: 18498
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 968.27300 (sec)
+Gossip Count: 6200
+Avg. Gossip/sec:6.40315
+Avg. Latency: 1.17357 (sec)
+Num. of Events: 18572
+Num. of Consensus Events: 18547
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 971.07300 (sec)
+Gossip Count: 6220
+Avg. Gossip/sec:6.40529
+Avg. Latency: 1.17286 (sec)
+Num. of Events: 18632
+Num. of Consensus Events: 18608
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 973.96900 (sec)
+Gossip Count: 6240
+Avg. Gossip/sec:6.40677
+Avg. Latency: 1.17224 (sec)
+Num. of Events: 18691
+Num. of Consensus Events: 18680
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 976.80900 (sec)
+Gossip Count: 6260
+Avg. Gossip/sec:6.40862
+Avg. Latency: 1.17202 (sec)
+Num. of Events: 18745
+Num. of Consensus Events: 18737
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 979.58900 (sec)
+Gossip Count: 6280
+Avg. Gossip/sec:6.41085
+Avg. Latency: 1.17108 (sec)
+Num. of Events: 18806
+Num. of Consensus Events: 18793
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 982.37600 (sec)
+Gossip Count: 6300
+Avg. Gossip/sec:6.41302
+Avg. Latency: 1.17048 (sec)
+Num. of Events: 18869
+Num. of Consensus Events: 18855
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 985.48000 (sec)
+Gossip Count: 6320
+Avg. Gossip/sec:6.41312
+Avg. Latency: 1.17024 (sec)
+Num. of Events: 18929
+Num. of Consensus Events: 18917
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 988.32300 (sec)
+Gossip Count: 6340
+Avg. Gossip/sec:6.41491
+Avg. Latency: 1.16998 (sec)
+Num. of Events: 18987
+Num. of Consensus Events: 18975
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 991.29900 (sec)
+Gossip Count: 6360
+Avg. Gossip/sec:6.41582
+Avg. Latency: 1.16986 (sec)
+Num. of Events: 19045
+Num. of Consensus Events: 19018
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 994.34200 (sec)
+Gossip Count: 6380
+Avg. Gossip/sec:6.41630
+Avg. Latency: 1.17075 (sec)
+Num. of Events: 19099
+Num. of Consensus Events: 19069
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1000.22300 (sec)
+Gossip Count: 6400
+Avg. Gossip/sec:6.39857
+Avg. Latency: 1.17805 (sec)
+Num. of Events: 19167
+Num. of Consensus Events: 19153
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1003.16900 (sec)
+Gossip Count: 6420
+Avg. Gossip/sec:6.39972
+Avg. Latency: 1.17743 (sec)
+Num. of Events: 19234
+Num. of Consensus Events: 19220
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1006.10000 (sec)
+Gossip Count: 6440
+Avg. Gossip/sec:6.40095
+Avg. Latency: 1.17670 (sec)
+Num. of Events: 19291
+Num. of Consensus Events: 19273
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1009.06200 (sec)
+Gossip Count: 6460
+Avg. Gossip/sec:6.40199
+Avg. Latency: 1.17627 (sec)
+Num. of Events: 19349
+Num. of Consensus Events: 19327
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1011.95900 (sec)
+Gossip Count: 6480
+Avg. Gossip/sec:6.40342
+Avg. Latency: 1.17600 (sec)
+Num. of Events: 19409
+Num. of Consensus Events: 19381
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1014.97600 (sec)
+Gossip Count: 6500
+Avg. Gossip/sec:6.40409
+Avg. Latency: 1.17629 (sec)
+Num. of Events: 19473
+Num. of Consensus Events: 19463
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1017.93600 (sec)
+Gossip Count: 6520
+Avg. Gossip/sec:6.40512
+Avg. Latency: 1.17646 (sec)
+Num. of Events: 19530
+Num. of Consensus Events: 19514
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1020.93900 (sec)
+Gossip Count: 6540
+Avg. Gossip/sec:6.40587
+Avg. Latency: 1.17593 (sec)
+Num. of Events: 19589
+Num. of Consensus Events: 19569
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1023.89200 (sec)
+Gossip Count: 6560
+Avg. Gossip/sec:6.40693
+Avg. Latency: 1.17498 (sec)
+Num. of Events: 19653
+Num. of Consensus Events: 19639
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1026.90900 (sec)
+Gossip Count: 6580
+Avg. Gossip/sec:6.40758
+Avg. Latency: 1.17436 (sec)
+Num. of Events: 19712
+Num. of Consensus Events: 19690
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1029.81600 (sec)
+Gossip Count: 6600
+Avg. Gossip/sec:6.40891
+Avg. Latency: 1.17401 (sec)
+Num. of Events: 19771
+Num. of Consensus Events: 19746
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1032.88300 (sec)
+Gossip Count: 6620
+Avg. Gossip/sec:6.40924
+Avg. Latency: 1.17409 (sec)
+Num. of Events: 19833
+Num. of Consensus Events: 19811
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1035.84300 (sec)
+Gossip Count: 6640
+Avg. Gossip/sec:6.41024
+Avg. Latency: 1.17404 (sec)
+Num. of Events: 19893
+Num. of Consensus Events: 19871
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1038.88600 (sec)
+Gossip Count: 6660
+Avg. Gossip/sec:6.41071
+Avg. Latency: 1.17343 (sec)
+Num. of Events: 19956
+Num. of Consensus Events: 19942
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1042.02600 (sec)
+Gossip Count: 6680
+Avg. Gossip/sec:6.41059
+Avg. Latency: 1.17294 (sec)
+Num. of Events: 20016
+Num. of Consensus Events: 20003
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1044.90900 (sec)
+Gossip Count: 6700
+Avg. Gossip/sec:6.41204
+Avg. Latency: 1.17202 (sec)
+Num. of Events: 20077
+Num. of Consensus Events: 20063
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1048.01600 (sec)
+Gossip Count: 6720
+Avg. Gossip/sec:6.41212
+Avg. Latency: 1.17109 (sec)
+Num. of Events: 20138
+Num. of Consensus Events: 20131
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1050.82600 (sec)
+Gossip Count: 6740
+Avg. Gossip/sec:6.41400
+Avg. Latency: 1.17029 (sec)
+Num. of Events: 20197
+Num. of Consensus Events: 20190
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1053.67200 (sec)
+Gossip Count: 6760
+Avg. Gossip/sec:6.41566
+Avg. Latency: 1.17017 (sec)
+Num. of Events: 20257
+Num. of Consensus Events: 20248
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1056.54300 (sec)
+Gossip Count: 6780
+Avg. Gossip/sec:6.41715
+Avg. Latency: 1.16931 (sec)
+Num. of Events: 20317
+Num. of Consensus Events: 20302
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1059.56300 (sec)
+Gossip Count: 6800
+Avg. Gossip/sec:6.41774
+Avg. Latency: 1.16939 (sec)
+Num. of Events: 20377
+Num. of Consensus Events: 20355
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1062.59200 (sec)
+Gossip Count: 6820
+Avg. Gossip/sec:6.41827
+Avg. Latency: 1.16893 (sec)
+Num. of Events: 20438
+Num. of Consensus Events: 20418
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1065.58900 (sec)
+Gossip Count: 6840
+Avg. Gossip/sec:6.41899
+Avg. Latency: 1.16890 (sec)
+Num. of Events: 20498
+Num. of Consensus Events: 20482
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1068.52900 (sec)
+Gossip Count: 6860
+Avg. Gossip/sec:6.42004
+Avg. Latency: 1.16837 (sec)
+Num. of Events: 20555
+Num. of Consensus Events: 20532
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1071.45300 (sec)
+Gossip Count: 6880
+Avg. Gossip/sec:6.42119
+Avg. Latency: 1.16844 (sec)
+Num. of Events: 20616
+Num. of Consensus Events: 20596
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1074.45900 (sec)
+Gossip Count: 6900
+Avg. Gossip/sec:6.42184
+Avg. Latency: 1.16834 (sec)
+Num. of Events: 20678
+Num. of Consensus Events: 20666
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1077.53600 (sec)
+Gossip Count: 6920
+Avg. Gossip/sec:6.42206
+Avg. Latency: 1.16827 (sec)
+Num. of Events: 20737
+Num. of Consensus Events: 20724
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1080.51600 (sec)
+Gossip Count: 6940
+Avg. Gossip/sec:6.42286
+Avg. Latency: 1.16775 (sec)
+Num. of Events: 20799
+Num. of Consensus Events: 20790
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1083.42600 (sec)
+Gossip Count: 6960
+Avg. Gossip/sec:6.42407
+Avg. Latency: 1.16737 (sec)
+Num. of Events: 20856
+Num. of Consensus Events: 20838
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1086.25600 (sec)
+Gossip Count: 6980
+Avg. Gossip/sec:6.42574
+Avg. Latency: 1.16708 (sec)
+Num. of Events: 20915
+Num. of Consensus Events: 20903
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1089.22200 (sec)
+Gossip Count: 7000
+Avg. Gossip/sec:6.42661
+Avg. Latency: 1.16675 (sec)
+Num. of Events: 20973
+Num. of Consensus Events: 20953
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1092.24900 (sec)
+Gossip Count: 7020
+Avg. Gossip/sec:6.42711
+Avg. Latency: 1.16696 (sec)
+Num. of Events: 21036
+Num. of Consensus Events: 21023
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1095.10600 (sec)
+Gossip Count: 7040
+Avg. Gossip/sec:6.42860
+Avg. Latency: 1.16686 (sec)
+Num. of Events: 21095
+Num. of Consensus Events: 21083
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1098.04300 (sec)
+Gossip Count: 7060
+Avg. Gossip/sec:6.42962
+Avg. Latency: 1.16675 (sec)
+Num. of Events: 21151
+Num. of Consensus Events: 21133
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1100.99300 (sec)
+Gossip Count: 7080
+Avg. Gossip/sec:6.43056
+Avg. Latency: 1.16716 (sec)
+Num. of Events: 21211
+Num. of Consensus Events: 21192
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1103.92300 (sec)
+Gossip Count: 7100
+Avg. Gossip/sec:6.43161
+Avg. Latency: 1.16750 (sec)
+Num. of Events: 21262
+Num. of Consensus Events: 21249
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1106.97300 (sec)
+Gossip Count: 7120
+Avg. Gossip/sec:6.43195
+Avg. Latency: 1.16719 (sec)
+Num. of Events: 21329
+Num. of Consensus Events: 21307
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1109.93600 (sec)
+Gossip Count: 7140
+Avg. Gossip/sec:6.43280
+Avg. Latency: 1.16697 (sec)
+Num. of Events: 21389
+Num. of Consensus Events: 21371
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1112.80600 (sec)
+Gossip Count: 7160
+Avg. Gossip/sec:6.43419
+Avg. Latency: 1.16674 (sec)
+Num. of Events: 21450
+Num. of Consensus Events: 21443
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1115.80300 (sec)
+Gossip Count: 7180
+Avg. Gossip/sec:6.43483
+Avg. Latency: 1.16683 (sec)
+Num. of Events: 21503
+Num. of Consensus Events: 21489
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1118.73200 (sec)
+Gossip Count: 7200
+Avg. Gossip/sec:6.43586
+Avg. Latency: 1.16635 (sec)
+Num. of Events: 21566
+Num. of Consensus Events: 21548
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1121.70900 (sec)
+Gossip Count: 7220
+Avg. Gossip/sec:6.43661
+Avg. Latency: 1.16634 (sec)
+Num. of Events: 21629
+Num. of Consensus Events: 21616
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1124.71300 (sec)
+Gossip Count: 7240
+Avg. Gossip/sec:6.43720
+Avg. Latency: 1.16663 (sec)
+Num. of Events: 21690
+Num. of Consensus Events: 21673
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1127.78900 (sec)
+Gossip Count: 7260
+Avg. Gossip/sec:6.43737
+Avg. Latency: 1.16737 (sec)
+Num. of Events: 21750
+Num. of Consensus Events: 21736
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1130.80300 (sec)
+Gossip Count: 7280
+Avg. Gossip/sec:6.43790
+Avg. Latency: 1.16749 (sec)
+Num. of Events: 21808
+Num. of Consensus Events: 21794
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1133.79900 (sec)
+Gossip Count: 7300
+Avg. Gossip/sec:6.43853
+Avg. Latency: 1.16703 (sec)
+Num. of Events: 21871
+Num. of Consensus Events: 21857
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1136.73600 (sec)
+Gossip Count: 7320
+Avg. Gossip/sec:6.43949
+Avg. Latency: 1.16628 (sec)
+Num. of Events: 21933
+Num. of Consensus Events: 21920
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1139.67900 (sec)
+Gossip Count: 7340
+Avg. Gossip/sec:6.44041
+Avg. Latency: 1.16583 (sec)
+Num. of Events: 21990
+Num. of Consensus Events: 21972
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1142.54900 (sec)
+Gossip Count: 7360
+Avg. Gossip/sec:6.44174
+Avg. Latency: 1.16536 (sec)
+Num. of Events: 22048
+Num. of Consensus Events: 22036
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1145.51300 (sec)
+Gossip Count: 7380
+Avg. Gossip/sec:6.44253
+Avg. Latency: 1.16490 (sec)
+Num. of Events: 22106
+Num. of Consensus Events: 22093
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1148.59900 (sec)
+Gossip Count: 7400
+Avg. Gossip/sec:6.44263
+Avg. Latency: 1.16453 (sec)
+Num. of Events: 22170
+Num. of Consensus Events: 22155
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1151.51900 (sec)
+Gossip Count: 7420
+Avg. Gossip/sec:6.44366
+Avg. Latency: 1.16420 (sec)
+Num. of Events: 22227
+Num. of Consensus Events: 22216
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1154.52300 (sec)
+Gossip Count: 7440
+Avg. Gossip/sec:6.44422
+Avg. Latency: 1.16380 (sec)
+Num. of Events: 22288
+Num. of Consensus Events: 22273
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1157.51900 (sec)
+Gossip Count: 7460
+Avg. Gossip/sec:6.44482
+Avg. Latency: 1.16343 (sec)
+Num. of Events: 22344
+Num. of Consensus Events: 22320
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1160.48300 (sec)
+Gossip Count: 7480
+Avg. Gossip/sec:6.44559
+Avg. Latency: 1.16374 (sec)
+Num. of Events: 22406
+Num. of Consensus Events: 22385
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1163.51600 (sec)
+Gossip Count: 7500
+Avg. Gossip/sec:6.44598
+Avg. Latency: 1.16367 (sec)
+Num. of Events: 22462
+Num. of Consensus Events: 22439
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1166.43600 (sec)
+Gossip Count: 7520
+Avg. Gossip/sec:6.44699
+Avg. Latency: 1.16314 (sec)
+Num. of Events: 22522
+Num. of Consensus Events: 22508
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1169.58600 (sec)
+Gossip Count: 7540
+Avg. Gossip/sec:6.44673
+Avg. Latency: 1.16290 (sec)
+Num. of Events: 22581
+Num. of Consensus Events: 22560
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1172.59900 (sec)
+Gossip Count: 7560
+Avg. Gossip/sec:6.44722
+Avg. Latency: 1.16318 (sec)
+Num. of Events: 22643
+Num. of Consensus Events: 22633
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1175.50900 (sec)
+Gossip Count: 7580
+Avg. Gossip/sec:6.44827
+Avg. Latency: 1.16257 (sec)
+Num. of Events: 22706
+Num. of Consensus Events: 22696
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1178.48900 (sec)
+Gossip Count: 7600
+Avg. Gossip/sec:6.44894
+Avg. Latency: 1.16197 (sec)
+Num. of Events: 22763
+Num. of Consensus Events: 22742
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1181.52600 (sec)
+Gossip Count: 7620
+Avg. Gossip/sec:6.44929
+Avg. Latency: 1.16212 (sec)
+Num. of Events: 22823
+Num. of Consensus Events: 22799
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1184.44300 (sec)
+Gossip Count: 7640
+Avg. Gossip/sec:6.45029
+Avg. Latency: 1.16152 (sec)
+Num. of Events: 22883
+Num. of Consensus Events: 22871
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1187.47200 (sec)
+Gossip Count: 7660
+Avg. Gossip/sec:6.45068
+Avg. Latency: 1.16139 (sec)
+Num. of Events: 22935
+Num. of Consensus Events: 22907
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1190.48300 (sec)
+Gossip Count: 7680
+Avg. Gossip/sec:6.45116
+Avg. Latency: 1.16182 (sec)
+Num. of Events: 22998
+Num. of Consensus Events: 22985
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1193.45900 (sec)
+Gossip Count: 7700
+Avg. Gossip/sec:6.45183
+Avg. Latency: 1.16136 (sec)
+Num. of Events: 23058
+Num. of Consensus Events: 23042
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1196.43600 (sec)
+Gossip Count: 7720
+Avg. Gossip/sec:6.45250
+Avg. Latency: 1.16102 (sec)
+Num. of Events: 23116
+Num. of Consensus Events: 23103
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1199.38300 (sec)
+Gossip Count: 7740
+Avg. Gossip/sec:6.45332
+Avg. Latency: 1.16110 (sec)
+Num. of Events: 23172
+Num. of Consensus Events: 23154
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1202.30200 (sec)
+Gossip Count: 7760
+Avg. Gossip/sec:6.45429
+Avg. Latency: 1.16052 (sec)
+Num. of Events: 23239
+Num. of Consensus Events: 23224
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1205.41900 (sec)
+Gossip Count: 7780
+Avg. Gossip/sec:6.45419
+Avg. Latency: 1.15990 (sec)
+Num. of Events: 23294
+Num. of Consensus Events: 23282
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1208.39200 (sec)
+Gossip Count: 7800
+Avg. Gossip/sec:6.45486
+Avg. Latency: 1.15898 (sec)
+Num. of Events: 23353
+Num. of Consensus Events: 23347
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1211.29200 (sec)
+Gossip Count: 7820
+Avg. Gossip/sec:6.45592
+Avg. Latency: 1.15833 (sec)
+Num. of Events: 23411
+Num. of Consensus Events: 23402
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1214.39300 (sec)
+Gossip Count: 7840
+Avg. Gossip/sec:6.45590
+Avg. Latency: 1.15806 (sec)
+Num. of Events: 23473
+Num. of Consensus Events: 23447
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1217.46200 (sec)
+Gossip Count: 7860
+Avg. Gossip/sec:6.45605
+Avg. Latency: 1.15850 (sec)
+Num. of Events: 23530
+Num. of Consensus Events: 23510
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1220.57600 (sec)
+Gossip Count: 7880
+Avg. Gossip/sec:6.45597
+Avg. Latency: 1.15866 (sec)
+Num. of Events: 23590
+Num. of Consensus Events: 23576
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1223.69600 (sec)
+Gossip Count: 7900
+Avg. Gossip/sec:6.45585
+Avg. Latency: 1.15825 (sec)
+Num. of Events: 23653
+Num. of Consensus Events: 23641
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1226.88900 (sec)
+Gossip Count: 7920
+Avg. Gossip/sec:6.45535
+Avg. Latency: 1.15796 (sec)
+Num. of Events: 23713
+Num. of Consensus Events: 23697
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1229.99200 (sec)
+Gossip Count: 7940
+Avg. Gossip/sec:6.45533
+Avg. Latency: 1.15782 (sec)
+Num. of Events: 23772
+Num. of Consensus Events: 23755
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1232.97200 (sec)
+Gossip Count: 7960
+Avg. Gossip/sec:6.45595
+Avg. Latency: 1.15754 (sec)
+Num. of Events: 23833
+Num. of Consensus Events: 23816
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1235.93300 (sec)
+Gossip Count: 7980
+Avg. Gossip/sec:6.45666
+Avg. Latency: 1.15688 (sec)
+Num. of Events: 23891
+Num. of Consensus Events: 23869
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1238.95000 (sec)
+Gossip Count: 8000
+Avg. Gossip/sec:6.45708
+Avg. Latency: 1.15671 (sec)
+Num. of Events: 23952
+Num. of Consensus Events: 23932
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1241.91600 (sec)
+Gossip Count: 8020
+Avg. Gossip/sec:6.45776
+Avg. Latency: 1.15589 (sec)
+Num. of Events: 24012
+Num. of Consensus Events: 23999
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1245.25600 (sec)
+Gossip Count: 8040
+Avg. Gossip/sec:6.45650
+Avg. Latency: 1.15561 (sec)
+Num. of Events: 24072
+Num. of Consensus Events: 24056
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1248.20600 (sec)
+Gossip Count: 8060
+Avg. Gossip/sec:6.45727
+Avg. Latency: 1.15500 (sec)
+Num. of Events: 24128
+Num. of Consensus Events: 24116
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1251.17900 (sec)
+Gossip Count: 8080
+Avg. Gossip/sec:6.45791
+Avg. Latency: 1.15467 (sec)
+Num. of Events: 24191
+Num. of Consensus Events: 24178
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1254.14600 (sec)
+Gossip Count: 8100
+Avg. Gossip/sec:6.45858
+Avg. Latency: 1.15431 (sec)
+Num. of Events: 24250
+Num. of Consensus Events: 24237
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1257.07200 (sec)
+Gossip Count: 8120
+Avg. Gossip/sec:6.45945
+Avg. Latency: 1.15386 (sec)
+Num. of Events: 24301
+Num. of Consensus Events: 24283
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1260.12900 (sec)
+Gossip Count: 8140
+Avg. Gossip/sec:6.45966
+Avg. Latency: 1.15384 (sec)
+Num. of Events: 24366
+Num. of Consensus Events: 24346
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1263.13900 (sec)
+Gossip Count: 8160
+Avg. Gossip/sec:6.46010
+Avg. Latency: 1.15364 (sec)
+Num. of Events: 24426
+Num. of Consensus Events: 24402
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1266.17900 (sec)
+Gossip Count: 8180
+Avg. Gossip/sec:6.46038
+Avg. Latency: 1.15345 (sec)
+Num. of Events: 24485
+Num. of Consensus Events: 24473
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1269.23600 (sec)
+Gossip Count: 8200
+Avg. Gossip/sec:6.46058
+Avg. Latency: 1.15333 (sec)
+Num. of Events: 24545
+Num. of Consensus Events: 24526
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1272.36300 (sec)
+Gossip Count: 8220
+Avg. Gossip/sec:6.46042
+Avg. Latency: 1.15335 (sec)
+Num. of Events: 24604
+Num. of Consensus Events: 24575
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1275.34900 (sec)
+Gossip Count: 8240
+Avg. Gossip/sec:6.46098
+Avg. Latency: 1.15334 (sec)
+Num. of Events: 24662
+Num. of Consensus Events: 24649
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1278.40300 (sec)
+Gossip Count: 8260
+Avg. Gossip/sec:6.46119
+Avg. Latency: 1.15267 (sec)
+Num. of Events: 24723
+Num. of Consensus Events: 24706
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1281.38300 (sec)
+Gossip Count: 8280
+Avg. Gossip/sec:6.46177
+Avg. Latency: 1.15247 (sec)
+Num. of Events: 24775
+Num. of Consensus Events: 24762
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1284.44600 (sec)
+Gossip Count: 8300
+Avg. Gossip/sec:6.46193
+Avg. Latency: 1.15247 (sec)
+Num. of Events: 24840
+Num. of Consensus Events: 24828
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1287.50600 (sec)
+Gossip Count: 8320
+Avg. Gossip/sec:6.46211
+Avg. Latency: 1.15207 (sec)
+Num. of Events: 24897
+Num. of Consensus Events: 24878
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1290.55300 (sec)
+Gossip Count: 8340
+Avg. Gossip/sec:6.46235
+Avg. Latency: 1.15178 (sec)
+Num. of Events: 24961
+Num. of Consensus Events: 24949
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1293.53900 (sec)
+Gossip Count: 8360
+Avg. Gossip/sec:6.46289
+Avg. Latency: 1.15161 (sec)
+Num. of Events: 25020
+Num. of Consensus Events: 25001
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1296.46600 (sec)
+Gossip Count: 8380
+Avg. Gossip/sec:6.46373
+Avg. Latency: 1.15110 (sec)
+Num. of Events: 25079
+Num. of Consensus Events: 25063
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1299.46600 (sec)
+Gossip Count: 8400
+Avg. Gossip/sec:6.46419
+Avg. Latency: 1.15109 (sec)
+Num. of Events: 25123
+Num. of Consensus Events: 25098
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1302.63300 (sec)
+Gossip Count: 8420
+Avg. Gossip/sec:6.46383
+Avg. Latency: 1.15195 (sec)
+Num. of Events: 25197
+Num. of Consensus Events: 25188
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1305.62300 (sec)
+Gossip Count: 8440
+Avg. Gossip/sec:6.46435
+Avg. Latency: 1.15159 (sec)
+Num. of Events: 25254
+Num. of Consensus Events: 25237
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1308.61600 (sec)
+Gossip Count: 8460
+Avg. Gossip/sec:6.46485
+Avg. Latency: 1.15126 (sec)
+Num. of Events: 25316
+Num. of Consensus Events: 25302
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1311.67200 (sec)
+Gossip Count: 8480
+Avg. Gossip/sec:6.46503
+Avg. Latency: 1.15056 (sec)
+Num. of Events: 25376
+Num. of Consensus Events: 25358
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1315.07900 (sec)
+Gossip Count: 8500
+Avg. Gossip/sec:6.46349
+Avg. Latency: 1.15222 (sec)
+Num. of Events: 25434
+Num. of Consensus Events: 25425
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1318.00300 (sec)
+Gossip Count: 8520
+Avg. Gossip/sec:6.46433
+Avg. Latency: 1.15211 (sec)
+Num. of Events: 25495
+Num. of Consensus Events: 25482
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1321.04900 (sec)
+Gossip Count: 8540
+Avg. Gossip/sec:6.46456
+Avg. Latency: 1.15201 (sec)
+Num. of Events: 25549
+Num. of Consensus Events: 25533
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1324.05200 (sec)
+Gossip Count: 8560
+Avg. Gossip/sec:6.46500
+Avg. Latency: 1.15182 (sec)
+Num. of Events: 25610
+Num. of Consensus Events: 25598
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1327.08900 (sec)
+Gossip Count: 8580
+Avg. Gossip/sec:6.46528
+Avg. Latency: 1.15189 (sec)
+Num. of Events: 25671
+Num. of Consensus Events: 25656
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1330.11600 (sec)
+Gossip Count: 8600
+Avg. Gossip/sec:6.46560
+Avg. Latency: 1.15136 (sec)
+Num. of Events: 25731
+Num. of Consensus Events: 25720
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1333.06600 (sec)
+Gossip Count: 8620
+Avg. Gossip/sec:6.46630
+Avg. Latency: 1.15077 (sec)
+Num. of Events: 25788
+Num. of Consensus Events: 25773
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1336.17300 (sec)
+Gossip Count: 8640
+Avg. Gossip/sec:6.46623
+Avg. Latency: 1.15079 (sec)
+Num. of Events: 25851
+Num. of Consensus Events: 25828
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1339.21200 (sec)
+Gossip Count: 8660
+Avg. Gossip/sec:6.46649
+Avg. Latency: 1.15025 (sec)
+Num. of Events: 25907
+Num. of Consensus Events: 25888
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1342.23300 (sec)
+Gossip Count: 8680
+Avg. Gossip/sec:6.46684
+Avg. Latency: 1.15031 (sec)
+Num. of Events: 25971
+Num. of Consensus Events: 25955
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1345.21600 (sec)
+Gossip Count: 8700
+Avg. Gossip/sec:6.46736
+Avg. Latency: 1.14960 (sec)
+Num. of Events: 26032
+Num. of Consensus Events: 26025
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1348.07300 (sec)
+Gossip Count: 8720
+Avg. Gossip/sec:6.46849
+Avg. Latency: 1.14927 (sec)
+Num. of Events: 26086
+Num. of Consensus Events: 26070
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1350.99900 (sec)
+Gossip Count: 8740
+Avg. Gossip/sec:6.46929
+Avg. Latency: 1.14854 (sec)
+Num. of Events: 26151
+Num. of Consensus Events: 26137
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1354.11900 (sec)
+Gossip Count: 8760
+Avg. Gossip/sec:6.46915
+Avg. Latency: 1.14858 (sec)
+Num. of Events: 26207
+Num. of Consensus Events: 26183
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1357.10300 (sec)
+Gossip Count: 8780
+Avg. Gossip/sec:6.46966
+Avg. Latency: 1.14825 (sec)
+Num. of Events: 26268
+Num. of Consensus Events: 26248
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1360.14900 (sec)
+Gossip Count: 8800
+Avg. Gossip/sec:6.46988
+Avg. Latency: 1.14822 (sec)
+Num. of Events: 26325
+Num. of Consensus Events: 26313
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1363.10200 (sec)
+Gossip Count: 8820
+Avg. Gossip/sec:6.47054
+Avg. Latency: 1.14768 (sec)
+Num. of Events: 26382
+Num. of Consensus Events: 26372
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1366.01900 (sec)
+Gossip Count: 8840
+Avg. Gossip/sec:6.47136
+Avg. Latency: 1.14733 (sec)
+Num. of Events: 26445
+Num. of Consensus Events: 26436
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1368.90200 (sec)
+Gossip Count: 8860
+Avg. Gossip/sec:6.47234
+Avg. Latency: 1.14697 (sec)
+Num. of Events: 26504
+Num. of Consensus Events: 26487
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1371.92600 (sec)
+Gossip Count: 8880
+Avg. Gossip/sec:6.47265
+Avg. Latency: 1.14708 (sec)
+Num. of Events: 26564
+Num. of Consensus Events: 26556
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1374.83300 (sec)
+Gossip Count: 8900
+Avg. Gossip/sec:6.47351
+Avg. Latency: 1.14657 (sec)
+Num. of Events: 26621
+Num. of Consensus Events: 26608
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1377.97300 (sec)
+Gossip Count: 8920
+Avg. Gossip/sec:6.47328
+Avg. Latency: 1.14657 (sec)
+Num. of Events: 26681
+Num. of Consensus Events: 26661
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1380.84900 (sec)
+Gossip Count: 8940
+Avg. Gossip/sec:6.47428
+Avg. Latency: 1.14599 (sec)
+Num. of Events: 26739
+Num. of Consensus Events: 26723
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1383.73600 (sec)
+Gossip Count: 8960
+Avg. Gossip/sec:6.47522
+Avg. Latency: 1.14557 (sec)
+Num. of Events: 26800
+Num. of Consensus Events: 26784
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1386.69900 (sec)
+Gossip Count: 8980
+Avg. Gossip/sec:6.47581
+Avg. Latency: 1.14532 (sec)
+Num. of Events: 26856
+Num. of Consensus Events: 26844
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1389.75900 (sec)
+Gossip Count: 9000
+Avg. Gossip/sec:6.47594
+Avg. Latency: 1.14518 (sec)
+Num. of Events: 26905
+Num. of Consensus Events: 26895
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1392.88300 (sec)
+Gossip Count: 9020
+Avg. Gossip/sec:6.47578
+Avg. Latency: 1.14479 (sec)
+Num. of Events: 26979
+Num. of Consensus Events: 26958
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1396.03200 (sec)
+Gossip Count: 9040
+Avg. Gossip/sec:6.47550
+Avg. Latency: 1.14454 (sec)
+Num. of Events: 27033
+Num. of Consensus Events: 27024
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1398.96900 (sec)
+Gossip Count: 9060
+Avg. Gossip/sec:6.47620
+Avg. Latency: 1.14403 (sec)
+Num. of Events: 27093
+Num. of Consensus Events: 27079
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1402.07600 (sec)
+Gossip Count: 9080
+Avg. Gossip/sec:6.47611
+Avg. Latency: 1.14390 (sec)
+Num. of Events: 27154
+Num. of Consensus Events: 27142
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1405.01900 (sec)
+Gossip Count: 9100
+Avg. Gossip/sec:6.47678
+Avg. Latency: 1.14341 (sec)
+Num. of Events: 27215
+Num. of Consensus Events: 27198
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1408.00600 (sec)
+Gossip Count: 9120
+Avg. Gossip/sec:6.47725
+Avg. Latency: 1.14292 (sec)
+Num. of Events: 27274
+Num. of Consensus Events: 27266
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1411.09300 (sec)
+Gossip Count: 9140
+Avg. Gossip/sec:6.47725
+Avg. Latency: 1.14297 (sec)
+Num. of Events: 27330
+Num. of Consensus Events: 27310
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1414.07300 (sec)
+Gossip Count: 9160
+Avg. Gossip/sec:6.47774
+Avg. Latency: 1.14283 (sec)
+Num. of Events: 27393
+Num. of Consensus Events: 27376
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1416.95600 (sec)
+Gossip Count: 9180
+Avg. Gossip/sec:6.47868
+Avg. Latency: 1.14264 (sec)
+Num. of Events: 27442
+Num. of Consensus Events: 27426
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1419.97300 (sec)
+Gossip Count: 9200
+Avg. Gossip/sec:6.47900
+Avg. Latency: 1.14251 (sec)
+Num. of Events: 27505
+Num. of Consensus Events: 27492
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1423.08300 (sec)
+Gossip Count: 9220
+Avg. Gossip/sec:6.47889
+Avg. Latency: 1.14248 (sec)
+Num. of Events: 27568
+Num. of Consensus Events: 27559
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1426.09600 (sec)
+Gossip Count: 9240
+Avg. Gossip/sec:6.47923
+Avg. Latency: 1.14203 (sec)
+Num. of Events: 27626
+Num. of Consensus Events: 27614
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1429.00900 (sec)
+Gossip Count: 9260
+Avg. Gossip/sec:6.48002
+Avg. Latency: 1.14140 (sec)
+Num. of Events: 27685
+Num. of Consensus Events: 27673
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1432.05900 (sec)
+Gossip Count: 9280
+Avg. Gossip/sec:6.48018
+Avg. Latency: 1.14114 (sec)
+Num. of Events: 27746
+Num. of Consensus Events: 27736
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1435.07300 (sec)
+Gossip Count: 9300
+Avg. Gossip/sec:6.48051
+Avg. Latency: 1.14095 (sec)
+Num. of Events: 27796
+Num. of Consensus Events: 27783
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1438.20900 (sec)
+Gossip Count: 9320
+Avg. Gossip/sec:6.48028
+Avg. Latency: 1.14068 (sec)
+Num. of Events: 27865
+Num. of Consensus Events: 27846
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1441.23600 (sec)
+Gossip Count: 9340
+Avg. Gossip/sec:6.48055
+Avg. Latency: 1.14085 (sec)
+Num. of Events: 27918
+Num. of Consensus Events: 27901
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1444.34300 (sec)
+Gossip Count: 9360
+Avg. Gossip/sec:6.48046
+Avg. Latency: 1.14094 (sec)
+Num. of Events: 27984
+Num. of Consensus Events: 27960
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1447.47600 (sec)
+Gossip Count: 9380
+Avg. Gossip/sec:6.48025
+Avg. Latency: 1.14058 (sec)
+Num. of Events: 28041
+Num. of Consensus Events: 28024
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1450.40900 (sec)
+Gossip Count: 9400
+Avg. Gossip/sec:6.48093
+Avg. Latency: 1.14042 (sec)
+Num. of Events: 28101
+Num. of Consensus Events: 28086
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1453.42200 (sec)
+Gossip Count: 9420
+Avg. Gossip/sec:6.48126
+Avg. Latency: 1.14030 (sec)
+Num. of Events: 28158
+Num. of Consensus Events: 28143
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1456.59300 (sec)
+Gossip Count: 9440
+Avg. Gossip/sec:6.48088
+Avg. Latency: 1.14041 (sec)
+Num. of Events: 28221
+Num. of Consensus Events: 28206
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1459.65000 (sec)
+Gossip Count: 9460
+Avg. Gossip/sec:6.48101
+Avg. Latency: 1.14009 (sec)
+Num. of Events: 28282
+Num. of Consensus Events: 28265
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1462.65300 (sec)
+Gossip Count: 9480
+Avg. Gossip/sec:6.48137
+Avg. Latency: 1.13973 (sec)
+Num. of Events: 28339
+Num. of Consensus Events: 28322
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1465.63600 (sec)
+Gossip Count: 9500
+Avg. Gossip/sec:6.48183
+Avg. Latency: 1.13925 (sec)
+Num. of Events: 28397
+Num. of Consensus Events: 28385
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1468.84300 (sec)
+Gossip Count: 9520
+Avg. Gossip/sec:6.48129
+Avg. Latency: 1.13895 (sec)
+Num. of Events: 28459
+Num. of Consensus Events: 28443
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1471.93900 (sec)
+Gossip Count: 9540
+Avg. Gossip/sec:6.48125
+Avg. Latency: 1.13850 (sec)
+Num. of Events: 28519
+Num. of Consensus Events: 28508
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1475.04900 (sec)
+Gossip Count: 9560
+Avg. Gossip/sec:6.48114
+Avg. Latency: 1.13843 (sec)
+Num. of Events: 28578
+Num. of Consensus Events: 28563
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1478.00600 (sec)
+Gossip Count: 9580
+Avg. Gossip/sec:6.48171
+Avg. Latency: 1.13798 (sec)
+Num. of Events: 28639
+Num. of Consensus Events: 28618
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1481.08300 (sec)
+Gossip Count: 9600
+Avg. Gossip/sec:6.48174
+Avg. Latency: 1.13756 (sec)
+Num. of Events: 28697
+Num. of Consensus Events: 28678
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1484.13600 (sec)
+Gossip Count: 9620
+Avg. Gossip/sec:6.48189
+Avg. Latency: 1.13720 (sec)
+Num. of Events: 28756
+Num. of Consensus Events: 28735
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1487.08300 (sec)
+Gossip Count: 9640
+Avg. Gossip/sec:6.48249
+Avg. Latency: 1.13715 (sec)
+Num. of Events: 28817
+Num. of Consensus Events: 28794
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1490.14600 (sec)
+Gossip Count: 9660
+Avg. Gossip/sec:6.48259
+Avg. Latency: 1.13709 (sec)
+Num. of Events: 28875
+Num. of Consensus Events: 28858
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1493.40900 (sec)
+Gossip Count: 9680
+Avg. Gossip/sec:6.48181
+Avg. Latency: 1.13668 (sec)
+Num. of Events: 28930
+Num. of Consensus Events: 28919
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1496.60900 (sec)
+Gossip Count: 9700
+Avg. Gossip/sec:6.48132
+Avg. Latency: 1.13650 (sec)
+Num. of Events: 28997
+Num. of Consensus Events: 28982
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1499.64300 (sec)
+Gossip Count: 9720
+Avg. Gossip/sec:6.48154
+Avg. Latency: 1.13598 (sec)
+Num. of Events: 29053
+Num. of Consensus Events: 29040
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1502.78200 (sec)
+Gossip Count: 9740
+Avg. Gossip/sec:6.48131
+Avg. Latency: 1.13579 (sec)
+Num. of Events: 29117
+Num. of Consensus Events: 29103
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1505.71200 (sec)
+Gossip Count: 9760
+Avg. Gossip/sec:6.48198
+Avg. Latency: 1.13557 (sec)
+Num. of Events: 29172
+Num. of Consensus Events: 29154
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1508.69300 (sec)
+Gossip Count: 9780
+Avg. Gossip/sec:6.48243
+Avg. Latency: 1.13552 (sec)
+Num. of Events: 29220
+Num. of Consensus Events: 29211
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1511.79600 (sec)
+Gossip Count: 9800
+Avg. Gossip/sec:6.48236
+Avg. Latency: 1.13569 (sec)
+Num. of Events: 29293
+Num. of Consensus Events: 29267
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1516.03300 (sec)
+Gossip Count: 9820
+Avg. Gossip/sec:6.47743
+Avg. Latency: 1.13630 (sec)
+Num. of Events: 29349
+Num. of Consensus Events: 29338
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1519.05900 (sec)
+Gossip Count: 9840
+Avg. Gossip/sec:6.47769
+Avg. Latency: 1.13608 (sec)
+Num. of Events: 29412
+Num. of Consensus Events: 29405
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1522.28900 (sec)
+Gossip Count: 9860
+Avg. Gossip/sec:6.47709
+Avg. Latency: 1.13599 (sec)
+Num. of Events: 29473
+Num. of Consensus Events: 29460
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1525.43300 (sec)
+Gossip Count: 9880
+Avg. Gossip/sec:6.47685
+Avg. Latency: 1.13577 (sec)
+Num. of Events: 29532
+Num. of Consensus Events: 29520
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1528.57600 (sec)
+Gossip Count: 9900
+Avg. Gossip/sec:6.47662
+Avg. Latency: 1.13599 (sec)
+Num. of Events: 29593
+Num. of Consensus Events: 29579
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1531.57900 (sec)
+Gossip Count: 9920
+Avg. Gossip/sec:6.47698
+Avg. Latency: 1.13592 (sec)
+Num. of Events: 29649
+Num. of Consensus Events: 29630
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1534.68600 (sec)
+Gossip Count: 9940
+Avg. Gossip/sec:6.47689
+Avg. Latency: 1.13607 (sec)
+Num. of Events: 29709
+Num. of Consensus Events: 29690
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1537.66900 (sec)
+Gossip Count: 9960
+Avg. Gossip/sec:6.47734
+Avg. Latency: 1.13572 (sec)
+Num. of Events: 29766
+Num. of Consensus Events: 29747
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1540.66900 (sec)
+Gossip Count: 9980
+Avg. Gossip/sec:6.47771
+Avg. Latency: 1.13564 (sec)
+Num. of Events: 29825
+Num. of Consensus Events: 29814
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1543.77900 (sec)
+Gossip Count: 10000
+Avg. Gossip/sec:6.47761
+Avg. Latency: 1.13558 (sec)
+Num. of Events: 29885
+Num. of Consensus Events: 29876
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1546.88300 (sec)
+Gossip Count: 10020
+Avg. Gossip/sec:6.47754
+Avg. Latency: 1.13556 (sec)
+Num. of Events: 29943
+Num. of Consensus Events: 29927
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1549.87900 (sec)
+Gossip Count: 10040
+Avg. Gossip/sec:6.47793
+Avg. Latency: 1.13533 (sec)
+Num. of Events: 30000
+Num. of Consensus Events: 29992
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1553.02900 (sec)
+Gossip Count: 10060
+Avg. Gossip/sec:6.47766
+Avg. Latency: 1.13535 (sec)
+Num. of Events: 30063
+Num. of Consensus Events: 30038
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1556.18300 (sec)
+Gossip Count: 10080
+Avg. Gossip/sec:6.47739
+Avg. Latency: 1.13550 (sec)
+Num. of Events: 30123
+Num. of Consensus Events: 30111
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1559.33900 (sec)
+Gossip Count: 10100
+Avg. Gossip/sec:6.47710
+Avg. Latency: 1.13548 (sec)
+Num. of Events: 30183
+Num. of Consensus Events: 30163
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1562.53300 (sec)
+Gossip Count: 10120
+Avg. Gossip/sec:6.47666
+Avg. Latency: 1.13556 (sec)
+Num. of Events: 30242
+Num. of Consensus Events: 30229
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1565.56600 (sec)
+Gossip Count: 10140
+Avg. Gossip/sec:6.47689
+Avg. Latency: 1.13547 (sec)
+Num. of Events: 30298
+Num. of Consensus Events: 30277
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1568.82200 (sec)
+Gossip Count: 10160
+Avg. Gossip/sec:6.47620
+Avg. Latency: 1.13539 (sec)
+Num. of Events: 30364
+Num. of Consensus Events: 30344
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1571.95900 (sec)
+Gossip Count: 10180
+Avg. Gossip/sec:6.47600
+Avg. Latency: 1.13520 (sec)
+Num. of Events: 30422
+Num. of Consensus Events: 30399
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1575.07300 (sec)
+Gossip Count: 10200
+Avg. Gossip/sec:6.47589
+Avg. Latency: 1.13516 (sec)
+Num. of Events: 30481
+Num. of Consensus Events: 30465
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1578.04600 (sec)
+Gossip Count: 10220
+Avg. Gossip/sec:6.47636
+Avg. Latency: 1.13478 (sec)
+Num. of Events: 30539
+Num. of Consensus Events: 30533
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1581.20900 (sec)
+Gossip Count: 10240
+Avg. Gossip/sec:6.47606
+Avg. Latency: 1.13482 (sec)
+Num. of Events: 30599
+Num. of Consensus Events: 30585
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1584.25600 (sec)
+Gossip Count: 10260
+Avg. Gossip/sec:6.47623
+Avg. Latency: 1.13421 (sec)
+Num. of Events: 30661
+Num. of Consensus Events: 30653
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1587.36600 (sec)
+Gossip Count: 10280
+Avg. Gossip/sec:6.47614
+Avg. Latency: 1.13404 (sec)
+Num. of Events: 30717
+Num. of Consensus Events: 30698
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1590.42300 (sec)
+Gossip Count: 10300
+Avg. Gossip/sec:6.47626
+Avg. Latency: 1.13378 (sec)
+Num. of Events: 30776
+Num. of Consensus Events: 30759
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1593.39600 (sec)
+Gossip Count: 10320
+Avg. Gossip/sec:6.47673
+Avg. Latency: 1.13343 (sec)
+Num. of Events: 30839
+Num. of Consensus Events: 30830
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1596.42900 (sec)
+Gossip Count: 10340
+Avg. Gossip/sec:6.47696
+Avg. Latency: 1.13343 (sec)
+Num. of Events: 30892
+Num. of Consensus Events: 30867
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1599.45900 (sec)
+Gossip Count: 10360
+Avg. Gossip/sec:6.47719
+Avg. Latency: 1.13365 (sec)
+Num. of Events: 30958
+Num. of Consensus Events: 30937
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1602.67200 (sec)
+Gossip Count: 10380
+Avg. Gossip/sec:6.47668
+Avg. Latency: 1.13345 (sec)
+Num. of Events: 31018
+Num. of Consensus Events: 31009
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1605.78600 (sec)
+Gossip Count: 10400
+Avg. Gossip/sec:6.47658
+Avg. Latency: 1.13322 (sec)
+Num. of Events: 31072
+Num. of Consensus Events: 31057
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1608.83600 (sec)
+Gossip Count: 10420
+Avg. Gossip/sec:6.47673
+Avg. Latency: 1.13294 (sec)
+Num. of Events: 31129
+Num. of Consensus Events: 31119
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1611.94300 (sec)
+Gossip Count: 10440
+Avg. Gossip/sec:6.47666
+Avg. Latency: 1.13310 (sec)
+Num. of Events: 31194
+Num. of Consensus Events: 31179
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1615.10900 (sec)
+Gossip Count: 10460
+Avg. Gossip/sec:6.47634
+Avg. Latency: 1.13306 (sec)
+Num. of Events: 31255
+Num. of Consensus Events: 31244
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1618.18200 (sec)
+Gossip Count: 10480
+Avg. Gossip/sec:6.47640
+Avg. Latency: 1.13279 (sec)
+Num. of Events: 31314
+Num. of Consensus Events: 31293
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1621.33900 (sec)
+Gossip Count: 10500
+Avg. Gossip/sec:6.47613
+Avg. Latency: 1.13297 (sec)
+Num. of Events: 31376
+Num. of Consensus Events: 31367
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1624.32900 (sec)
+Gossip Count: 10520
+Avg. Gossip/sec:6.47652
+Avg. Latency: 1.13279 (sec)
+Num. of Events: 31435
+Num. of Consensus Events: 31415
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1627.35900 (sec)
+Gossip Count: 10540
+Avg. Gossip/sec:6.47675
+Avg. Latency: 1.13256 (sec)
+Num. of Events: 31489
+Num. of Consensus Events: 31473
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1630.59300 (sec)
+Gossip Count: 10560
+Avg. Gossip/sec:6.47617
+Avg. Latency: 1.13289 (sec)
+Num. of Events: 31548
+Num. of Consensus Events: 31532
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1633.71900 (sec)
+Gossip Count: 10580
+Avg. Gossip/sec:6.47602
+Avg. Latency: 1.13299 (sec)
+Num. of Events: 31612
+Num. of Consensus Events: 31596
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1636.81900 (sec)
+Gossip Count: 10600
+Avg. Gossip/sec:6.47598
+Avg. Latency: 1.13321 (sec)
+Num. of Events: 31672
+Num. of Consensus Events: 31652
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1639.76200 (sec)
+Gossip Count: 10620
+Avg. Gossip/sec:6.47655
+Avg. Latency: 1.13305 (sec)
+Num. of Events: 31732
+Num. of Consensus Events: 31719
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1642.77900 (sec)
+Gossip Count: 10640
+Avg. Gossip/sec:6.47683
+Avg. Latency: 1.13290 (sec)
+Num. of Events: 31792
+Num. of Consensus Events: 31773
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1645.91900 (sec)
+Gossip Count: 10660
+Avg. Gossip/sec:6.47662
+Avg. Latency: 1.13265 (sec)
+Num. of Events: 31854
+Num. of Consensus Events: 31830
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1648.94200 (sec)
+Gossip Count: 10680
+Avg. Gossip/sec:6.47688
+Avg. Latency: 1.13263 (sec)
+Num. of Events: 31912
+Num. of Consensus Events: 31897
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1652.07200 (sec)
+Gossip Count: 10700
+Avg. Gossip/sec:6.47672
+Avg. Latency: 1.13249 (sec)
+Num. of Events: 31970
+Num. of Consensus Events: 31945
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1655.16600 (sec)
+Gossip Count: 10720
+Avg. Gossip/sec:6.47669
+Avg. Latency: 1.13232 (sec)
+Num. of Events: 32028
+Num. of Consensus Events: 32010
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1658.28200 (sec)
+Gossip Count: 10740
+Avg. Gossip/sec:6.47658
+Avg. Latency: 1.13186 (sec)
+Num. of Events: 32089
+Num. of Consensus Events: 32076
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1661.33900 (sec)
+Gossip Count: 10760
+Avg. Gossip/sec:6.47670
+Avg. Latency: 1.13169 (sec)
+Num. of Events: 32148
+Num. of Consensus Events: 32136
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1664.42300 (sec)
+Gossip Count: 10780
+Avg. Gossip/sec:6.47672
+Avg. Latency: 1.13153 (sec)
+Num. of Events: 32209
+Num. of Consensus Events: 32198
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1667.73600 (sec)
+Gossip Count: 10800
+Avg. Gossip/sec:6.47585
+Avg. Latency: 1.13158 (sec)
+Num. of Events: 32267
+Num. of Consensus Events: 32250
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1670.82600 (sec)
+Gossip Count: 10820
+Avg. Gossip/sec:6.47584
+Avg. Latency: 1.13154 (sec)
+Num. of Events: 32330
+Num. of Consensus Events: 32320
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1673.87900 (sec)
+Gossip Count: 10840
+Avg. Gossip/sec:6.47598
+Avg. Latency: 1.13133 (sec)
+Num. of Events: 32388
+Num. of Consensus Events: 32372
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1677.09900 (sec)
+Gossip Count: 10860
+Avg. Gossip/sec:6.47547
+Avg. Latency: 1.13119 (sec)
+Num. of Events: 32449
+Num. of Consensus Events: 32435
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1680.07600 (sec)
+Gossip Count: 10880
+Avg. Gossip/sec:6.47590
+Avg. Latency: 1.13104 (sec)
+Num. of Events: 32506
+Num. of Consensus Events: 32496
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1683.13300 (sec)
+Gossip Count: 10900
+Avg. Gossip/sec:6.47602
+Avg. Latency: 1.13077 (sec)
+Num. of Events: 32566
+Num. of Consensus Events: 32552
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1686.21300 (sec)
+Gossip Count: 10920
+Avg. Gossip/sec:6.47605
+Avg. Latency: 1.13070 (sec)
+Num. of Events: 32620
+Num. of Consensus Events: 32599
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1689.30300 (sec)
+Gossip Count: 10940
+Avg. Gossip/sec:6.47604
+Avg. Latency: 1.13092 (sec)
+Num. of Events: 32681
+Num. of Consensus Events: 32670
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1692.46600 (sec)
+Gossip Count: 10960
+Avg. Gossip/sec:6.47576
+Avg. Latency: 1.13090 (sec)
+Num. of Events: 32741
+Num. of Consensus Events: 32724
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1695.51600 (sec)
+Gossip Count: 10980
+Avg. Gossip/sec:6.47590
+Avg. Latency: 1.13069 (sec)
+Num. of Events: 32801
+Num. of Consensus Events: 32783
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1698.80600 (sec)
+Gossip Count: 11000
+Avg. Gossip/sec:6.47514
+Avg. Latency: 1.13080 (sec)
+Num. of Events: 32860
+Num. of Consensus Events: 32853
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1701.88900 (sec)
+Gossip Count: 11020
+Avg. Gossip/sec:6.47516
+Avg. Latency: 1.13056 (sec)
+Num. of Events: 32912
+Num. of Consensus Events: 32893
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1705.82900 (sec)
+Gossip Count: 11040
+Avg. Gossip/sec:6.47193
+Avg. Latency: 1.13253 (sec)
+Num. of Events: 32980
+Num. of Consensus Events: 32961
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1708.96600 (sec)
+Gossip Count: 11060
+Avg. Gossip/sec:6.47175
+Avg. Latency: 1.13254 (sec)
+Num. of Events: 33042
+Num. of Consensus Events: 33027
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1712.14600 (sec)
+Gossip Count: 11080
+Avg. Gossip/sec:6.47141
+Avg. Latency: 1.13296 (sec)
+Num. of Events: 33101
+Num. of Consensus Events: 33092
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1715.24300 (sec)
+Gossip Count: 11100
+Avg. Gossip/sec:6.47139
+Avg. Latency: 1.13269 (sec)
+Num. of Events: 33160
+Num. of Consensus Events: 33136
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1718.36300 (sec)
+Gossip Count: 11120
+Avg. Gossip/sec:6.47128
+Avg. Latency: 1.13268 (sec)
+Num. of Events: 33224
+Num. of Consensus Events: 33200
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1721.50900 (sec)
+Gossip Count: 11140
+Avg. Gossip/sec:6.47107
+Avg. Latency: 1.13246 (sec)
+Num. of Events: 33281
+Num. of Consensus Events: 33271
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1724.54900 (sec)
+Gossip Count: 11160
+Avg. Gossip/sec:6.47126
+Avg. Latency: 1.13253 (sec)
+Num. of Events: 33337
+Num. of Consensus Events: 33322
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1727.64600 (sec)
+Gossip Count: 11180
+Avg. Gossip/sec:6.47123
+Avg. Latency: 1.13243 (sec)
+Num. of Events: 33398
+Num. of Consensus Events: 33387
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1730.72900 (sec)
+Gossip Count: 11200
+Avg. Gossip/sec:6.47126
+Avg. Latency: 1.13222 (sec)
+Num. of Events: 33455
+Num. of Consensus Events: 33434
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1733.81300 (sec)
+Gossip Count: 11220
+Avg. Gossip/sec:6.47129
+Avg. Latency: 1.13222 (sec)
+Num. of Events: 33518
+Num. of Consensus Events: 33507
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1736.92300 (sec)
+Gossip Count: 11240
+Avg. Gossip/sec:6.47121
+Avg. Latency: 1.13271 (sec)
+Num. of Events: 33576
+Num. of Consensus Events: 33555
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1740.00600 (sec)
+Gossip Count: 11260
+Avg. Gossip/sec:6.47124
+Avg. Latency: 1.13238 (sec)
+Num. of Events: 33632
+Num. of Consensus Events: 33613
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1743.15900 (sec)
+Gossip Count: 11280
+Avg. Gossip/sec:6.47101
+Avg. Latency: 1.13211 (sec)
+Num. of Events: 33696
+Num. of Consensus Events: 33677
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1746.15600 (sec)
+Gossip Count: 11300
+Avg. Gossip/sec:6.47136
+Avg. Latency: 1.13180 (sec)
+Num. of Events: 33754
+Num. of Consensus Events: 33734
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1749.30200 (sec)
+Gossip Count: 11320
+Avg. Gossip/sec:6.47115
+Avg. Latency: 1.13174 (sec)
+Num. of Events: 33804
+Num. of Consensus Events: 33789
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1752.45300 (sec)
+Gossip Count: 11340
+Avg. Gossip/sec:6.47093
+Avg. Latency: 1.13169 (sec)
+Num. of Events: 33876
+Num. of Consensus Events: 33862
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1755.65300 (sec)
+Gossip Count: 11360
+Avg. Gossip/sec:6.47053
+Avg. Latency: 1.13155 (sec)
+Num. of Events: 33933
+Num. of Consensus Events: 33915
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1758.89900 (sec)
+Gossip Count: 11380
+Avg. Gossip/sec:6.46996
+Avg. Latency: 1.13145 (sec)
+Num. of Events: 33992
+Num. of Consensus Events: 33979
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1761.98900 (sec)
+Gossip Count: 11400
+Avg. Gossip/sec:6.46996
+Avg. Latency: 1.13129 (sec)
+Num. of Events: 34050
+Num. of Consensus Events: 34037
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1765.10600 (sec)
+Gossip Count: 11420
+Avg. Gossip/sec:6.46987
+Avg. Latency: 1.13100 (sec)
+Num. of Events: 34112
+Num. of Consensus Events: 34094
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1768.36200 (sec)
+Gossip Count: 11440
+Avg. Gossip/sec:6.46926
+Avg. Latency: 1.13097 (sec)
+Num. of Events: 34169
+Num. of Consensus Events: 34157
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1771.41900 (sec)
+Gossip Count: 11460
+Avg. Gossip/sec:6.46939
+Avg. Latency: 1.13076 (sec)
+Num. of Events: 34232
+Num. of Consensus Events: 34220
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1774.57200 (sec)
+Gossip Count: 11480
+Avg. Gossip/sec:6.46917
+Avg. Latency: 1.13059 (sec)
+Num. of Events: 34287
+Num. of Consensus Events: 34270
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1777.75300 (sec)
+Gossip Count: 11500
+Avg. Gossip/sec:6.46884
+Avg. Latency: 1.13047 (sec)
+Num. of Events: 34351
+Num. of Consensus Events: 34334
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1780.85200 (sec)
+Gossip Count: 11520
+Avg. Gossip/sec:6.46881
+Avg. Latency: 1.13043 (sec)
+Num. of Events: 34408
+Num. of Consensus Events: 34390
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1784.00600 (sec)
+Gossip Count: 11540
+Avg. Gossip/sec:6.46859
+Avg. Latency: 1.13063 (sec)
+Num. of Events: 34470
+Num. of Consensus Events: 34448
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1787.05600 (sec)
+Gossip Count: 11560
+Avg. Gossip/sec:6.46874
+Avg. Latency: 1.13061 (sec)
+Num. of Events: 34527
+Num. of Consensus Events: 34514
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1790.21600 (sec)
+Gossip Count: 11580
+Avg. Gossip/sec:6.46849
+Avg. Latency: 1.13039 (sec)
+Num. of Events: 34589
+Num. of Consensus Events: 34577
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1793.27900 (sec)
+Gossip Count: 11600
+Avg. Gossip/sec:6.46860
+Avg. Latency: 1.13046 (sec)
+Num. of Events: 34641
+Num. of Consensus Events: 34619
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1796.22600 (sec)
+Gossip Count: 11620
+Avg. Gossip/sec:6.46912
+Avg. Latency: 1.13079 (sec)
+Num. of Events: 34704
+Num. of Consensus Events: 34692
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1799.31900 (sec)
+Gossip Count: 11640
+Avg. Gossip/sec:6.46911
+Avg. Latency: 1.13120 (sec)
+Num. of Events: 34762
+Num. of Consensus Events: 34747
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1802.47600 (sec)
+Gossip Count: 11660
+Avg. Gossip/sec:6.46888
+Avg. Latency: 1.13108 (sec)
+Num. of Events: 34820
+Num. of Consensus Events: 34800
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1805.67900 (sec)
+Gossip Count: 11680
+Avg. Gossip/sec:6.46848
+Avg. Latency: 1.13100 (sec)
+Num. of Events: 34878
+Num. of Consensus Events: 34863
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1809.42900 (sec)
+Gossip Count: 11700
+Avg. Gossip/sec:6.46613
+Avg. Latency: 1.13208 (sec)
+Num. of Events: 34938
+Num. of Consensus Events: 34926
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1812.62600 (sec)
+Gossip Count: 11720
+Avg. Gossip/sec:6.46576
+Avg. Latency: 1.13204 (sec)
+Num. of Events: 34994
+Num. of Consensus Events: 34976
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1815.72300 (sec)
+Gossip Count: 11740
+Avg. Gossip/sec:6.46574
+Avg. Latency: 1.13190 (sec)
+Num. of Events: 35056
+Num. of Consensus Events: 35043
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1818.90600 (sec)
+Gossip Count: 11760
+Avg. Gossip/sec:6.46542
+Avg. Latency: 1.13171 (sec)
+Num. of Events: 35116
+Num. of Consensus Events: 35088
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1822.17600 (sec)
+Gossip Count: 11780
+Avg. Gossip/sec:6.46480
+Avg. Latency: 1.13176 (sec)
+Num. of Events: 35170
+Num. of Consensus Events: 35160
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1825.23900 (sec)
+Gossip Count: 11800
+Avg. Gossip/sec:6.46491
+Avg. Latency: 1.13163 (sec)
+Num. of Events: 35232
+Num. of Consensus Events: 35211
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1828.24900 (sec)
+Gossip Count: 11820
+Avg. Gossip/sec:6.46520
+Avg. Latency: 1.13142 (sec)
+Num. of Events: 35289
+Num. of Consensus Events: 35283
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1831.30600 (sec)
+Gossip Count: 11840
+Avg. Gossip/sec:6.46533
+Avg. Latency: 1.13120 (sec)
+Num. of Events: 35347
+Num. of Consensus Events: 35327
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1834.42900 (sec)
+Gossip Count: 11860
+Avg. Gossip/sec:6.46523
+Avg. Latency: 1.13192 (sec)
+Num. of Events: 35412
+Num. of Consensus Events: 35400
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1837.66900 (sec)
+Gossip Count: 11880
+Avg. Gossip/sec:6.46471
+Avg. Latency: 1.13180 (sec)
+Num. of Events: 35474
+Num. of Consensus Events: 35462
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1840.64900 (sec)
+Gossip Count: 11900
+Avg. Gossip/sec:6.46511
+Avg. Latency: 1.13200 (sec)
+Num. of Events: 35530
+Num. of Consensus Events: 35513
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1843.80900 (sec)
+Gossip Count: 11920
+Avg. Gossip/sec:6.46488
+Avg. Latency: 1.13192 (sec)
+Num. of Events: 35591
+Num. of Consensus Events: 35582
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1846.89200 (sec)
+Gossip Count: 11940
+Avg. Gossip/sec:6.46492
+Avg. Latency: 1.13159 (sec)
+Num. of Events: 35649
+Num. of Consensus Events: 35634
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1850.11600 (sec)
+Gossip Count: 11960
+Avg. Gossip/sec:6.46446
+Avg. Latency: 1.13182 (sec)
+Num. of Events: 35708
+Num. of Consensus Events: 35691
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1853.29900 (sec)
+Gossip Count: 11980
+Avg. Gossip/sec:6.46415
+Avg. Latency: 1.13201 (sec)
+Num. of Events: 35770
+Num. of Consensus Events: 35746
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1856.52200 (sec)
+Gossip Count: 12000
+Avg. Gossip/sec:6.46370
+Avg. Latency: 1.13191 (sec)
+Num. of Events: 35828
+Num. of Consensus Events: 35810
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1859.64900 (sec)
+Gossip Count: 12020
+Avg. Gossip/sec:6.46359
+Avg. Latency: 1.13220 (sec)
+Num. of Events: 35886
+Num. of Consensus Events: 35866
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1862.80900 (sec)
+Gossip Count: 12040
+Avg. Gossip/sec:6.46336
+Avg. Latency: 1.13206 (sec)
+Num. of Events: 35942
+Num. of Consensus Events: 35915
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1865.99600 (sec)
+Gossip Count: 12060
+Avg. Gossip/sec:6.46304
+Avg. Latency: 1.13239 (sec)
+Num. of Events: 36006
+Num. of Consensus Events: 35989
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1869.04600 (sec)
+Gossip Count: 12080
+Avg. Gossip/sec:6.46319
+Avg. Latency: 1.13217 (sec)
+Num. of Events: 36064
+Num. of Consensus Events: 36051
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1873.13900 (sec)
+Gossip Count: 12100
+Avg. Gossip/sec:6.45974
+Avg. Latency: 1.13184 (sec)
+Num. of Events: 36124
+Num. of Consensus Events: 36107
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1876.24600 (sec)
+Gossip Count: 12120
+Avg. Gossip/sec:6.45971
+Avg. Latency: 1.13197 (sec)
+Num. of Events: 36180
+Num. of Consensus Events: 36166
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1879.31300 (sec)
+Gossip Count: 12140
+Avg. Gossip/sec:6.45981
+Avg. Latency: 1.13171 (sec)
+Num. of Events: 36241
+Num. of Consensus Events: 36226
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1882.30900 (sec)
+Gossip Count: 12160
+Avg. Gossip/sec:6.46015
+Avg. Latency: 1.13207 (sec)
+Num. of Events: 36297
+Num. of Consensus Events: 36288
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1885.56600 (sec)
+Gossip Count: 12180
+Avg. Gossip/sec:6.45960
+Avg. Latency: 1.13275 (sec)
+Num. of Events: 36350
+Num. of Consensus Events: 36332
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1888.70200 (sec)
+Gossip Count: 12200
+Avg. Gossip/sec:6.45946
+Avg. Latency: 1.13253 (sec)
+Num. of Events: 36418
+Num. of Consensus Events: 36404
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1891.82600 (sec)
+Gossip Count: 12220
+Avg. Gossip/sec:6.45937
+Avg. Latency: 1.13235 (sec)
+Num. of Events: 36476
+Num. of Consensus Events: 36463
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1894.87200 (sec)
+Gossip Count: 12240
+Avg. Gossip/sec:6.45954
+Avg. Latency: 1.13226 (sec)
+Num. of Events: 36523
+Num. of Consensus Events: 36513
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1898.08900 (sec)
+Gossip Count: 12260
+Avg. Gossip/sec:6.45913
+Avg. Latency: 1.13261 (sec)
+Num. of Events: 36590
+Num. of Consensus Events: 36569
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1901.36300 (sec)
+Gossip Count: 12280
+Avg. Gossip/sec:6.45852
+Avg. Latency: 1.13258 (sec)
+Num. of Events: 36654
+Num. of Consensus Events: 36645
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1904.61200 (sec)
+Gossip Count: 12300
+Avg. Gossip/sec:6.45801
+Avg. Latency: 1.13245 (sec)
+Num. of Events: 36714
+Num. of Consensus Events: 36697
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1907.89900 (sec)
+Gossip Count: 12320
+Avg. Gossip/sec:6.45736
+Avg. Latency: 1.13261 (sec)
+Num. of Events: 36773
+Num. of Consensus Events: 36751
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1911.04300 (sec)
+Gossip Count: 12340
+Avg. Gossip/sec:6.45721
+Avg. Latency: 1.13254 (sec)
+Num. of Events: 36832
+Num. of Consensus Events: 36820
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1914.23200 (sec)
+Gossip Count: 12360
+Avg. Gossip/sec:6.45690
+Avg. Latency: 1.13249 (sec)
+Num. of Events: 36890
+Num. of Consensus Events: 36882
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1917.48600 (sec)
+Gossip Count: 12380
+Avg. Gossip/sec:6.45637
+Avg. Latency: 1.13250 (sec)
+Num. of Events: 36950
+Num. of Consensus Events: 36932
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1920.61900 (sec)
+Gossip Count: 12400
+Avg. Gossip/sec:6.45625
+Avg. Latency: 1.13251 (sec)
+Num. of Events: 37007
+Num. of Consensus Events: 36980
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1923.74200 (sec)
+Gossip Count: 12420
+Avg. Gossip/sec:6.45617
+Avg. Latency: 1.13274 (sec)
+Num. of Events: 37069
+Num. of Consensus Events: 37043
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1926.91300 (sec)
+Gossip Count: 12440
+Avg. Gossip/sec:6.45592
+Avg. Latency: 1.13293 (sec)
+Num. of Events: 37124
+Num. of Consensus Events: 37101
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1930.18300 (sec)
+Gossip Count: 12460
+Avg. Gossip/sec:6.45535
+Avg. Latency: 1.13317 (sec)
+Num. of Events: 37188
+Num. of Consensus Events: 37175
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1933.35600 (sec)
+Gossip Count: 12480
+Avg. Gossip/sec:6.45510
+Avg. Latency: 1.13285 (sec)
+Num. of Events: 37247
+Num. of Consensus Events: 37230
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1936.47300 (sec)
+Gossip Count: 12500
+Avg. Gossip/sec:6.45503
+Avg. Latency: 1.13275 (sec)
+Num. of Events: 37305
+Num. of Consensus Events: 37287
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1939.78900 (sec)
+Gossip Count: 12520
+Avg. Gossip/sec:6.45431
+Avg. Latency: 1.13325 (sec)
+Num. of Events: 37366
+Num. of Consensus Events: 37335
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1942.97600 (sec)
+Gossip Count: 12540
+Avg. Gossip/sec:6.45402
+Avg. Latency: 1.13329 (sec)
+Num. of Events: 37423
+Num. of Consensus Events: 37410
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1946.03900 (sec)
+Gossip Count: 12560
+Avg. Gossip/sec:6.45414
+Avg. Latency: 1.13346 (sec)
+Num. of Events: 37482
+Num. of Consensus Events: 37467
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1949.27300 (sec)
+Gossip Count: 12580
+Avg. Gossip/sec:6.45369
+Avg. Latency: 1.13336 (sec)
+Num. of Events: 37541
+Num. of Consensus Events: 37529
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1953.26600 (sec)
+Gossip Count: 12600
+Avg. Gossip/sec:6.45073
+Avg. Latency: 1.13327 (sec)
+Num. of Events: 37590
+Num. of Consensus Events: 37565
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1957.04300 (sec)
+Gossip Count: 12620
+Avg. Gossip/sec:6.44850
+Avg. Latency: 1.13572 (sec)
+Num. of Events: 37665
+Num. of Consensus Events: 37641
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1960.33900 (sec)
+Gossip Count: 12640
+Avg. Gossip/sec:6.44786
+Avg. Latency: 1.13569 (sec)
+Num. of Events: 37729
+Num. of Consensus Events: 37720
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1970.67300 (sec)
+Gossip Count: 12660
+Avg. Gossip/sec:6.42420
+Avg. Latency: 1.13580 (sec)
+Num. of Events: 37787
+Num. of Consensus Events: 37777
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1973.81900 (sec)
+Gossip Count: 12680
+Avg. Gossip/sec:6.42409
+Avg. Latency: 1.13749 (sec)
+Num. of Events: 37848
+Num. of Consensus Events: 37837
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1976.95600 (sec)
+Gossip Count: 12700
+Avg. Gossip/sec:6.42402
+Avg. Latency: 1.13764 (sec)
+Num. of Events: 37907
+Num. of Consensus Events: 37880
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1980.27600 (sec)
+Gossip Count: 12720
+Avg. Gossip/sec:6.42335
+Avg. Latency: 1.13806 (sec)
+Num. of Events: 37965
+Num. of Consensus Events: 37953
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1983.42600 (sec)
+Gossip Count: 12740
+Avg. Gossip/sec:6.42323
+Avg. Latency: 1.13810 (sec)
+Num. of Events: 38024
+Num. of Consensus Events: 38006
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1986.64600 (sec)
+Gossip Count: 12760
+Avg. Gossip/sec:6.42289
+Avg. Latency: 1.13800 (sec)
+Num. of Events: 38082
+Num. of Consensus Events: 38067
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1989.61200 (sec)
+Gossip Count: 12780
+Avg. Gossip/sec:6.42336
+Avg. Latency: 1.13816 (sec)
+Num. of Events: 38139
+Num. of Consensus Events: 38125
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1992.82600 (sec)
+Gossip Count: 12800
+Avg. Gossip/sec:6.42304
+Avg. Latency: 1.13838 (sec)
+Num. of Events: 38200
+Num. of Consensus Events: 38186
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1995.91200 (sec)
+Gossip Count: 12820
+Avg. Gossip/sec:6.42313
+Avg. Latency: 1.13849 (sec)
+Num. of Events: 38261
+Num. of Consensus Events: 38243
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 1999.03600 (sec)
+Gossip Count: 12840
+Avg. Gossip/sec:6.42310
+Avg. Latency: 1.13833 (sec)
+Num. of Events: 38320
+Num. of Consensus Events: 38304
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2002.36900 (sec)
+Gossip Count: 12860
+Avg. Gossip/sec:6.42239
+Avg. Latency: 1.13832 (sec)
+Num. of Events: 38380
+Num. of Consensus Events: 38360
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2005.45300 (sec)
+Gossip Count: 12880
+Avg. Gossip/sec:6.42249
+Avg. Latency: 1.13833 (sec)
+Num. of Events: 38436
+Num. of Consensus Events: 38420
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2008.63300 (sec)
+Gossip Count: 12900
+Avg. Gossip/sec:6.42228
+Avg. Latency: 1.13840 (sec)
+Num. of Events: 38494
+Num. of Consensus Events: 38475
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2011.75600 (sec)
+Gossip Count: 12920
+Avg. Gossip/sec:6.42225
+Avg. Latency: 1.13839 (sec)
+Num. of Events: 38554
+Num. of Consensus Events: 38531
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2014.81600 (sec)
+Gossip Count: 12940
+Avg. Gossip/sec:6.42242
+Avg. Latency: 1.13844 (sec)
+Num. of Events: 38613
+Num. of Consensus Events: 38594
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2018.00600 (sec)
+Gossip Count: 12960
+Avg. Gossip/sec:6.42218
+Avg. Latency: 1.13852 (sec)
+Num. of Events: 38671
+Num. of Consensus Events: 38660
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2021.12600 (sec)
+Gossip Count: 12980
+Avg. Gossip/sec:6.42216
+Avg. Latency: 1.13836 (sec)
+Num. of Events: 38727
+Num. of Consensus Events: 38717
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2024.30600 (sec)
+Gossip Count: 13000
+Avg. Gossip/sec:6.42195
+Avg. Latency: 1.13811 (sec)
+Num. of Events: 38787
+Num. of Consensus Events: 38769
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2027.42900 (sec)
+Gossip Count: 13020
+Avg. Gossip/sec:6.42193
+Avg. Latency: 1.13824 (sec)
+Num. of Events: 38846
+Num. of Consensus Events: 38833
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2030.53600 (sec)
+Gossip Count: 13040
+Avg. Gossip/sec:6.42195
+Avg. Latency: 1.13826 (sec)
+Num. of Events: 38907
+Num. of Consensus Events: 38896
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2033.69600 (sec)
+Gossip Count: 13060
+Avg. Gossip/sec:6.42181
+Avg. Latency: 1.13834 (sec)
+Num. of Events: 38964
+Num. of Consensus Events: 38947
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2036.83600 (sec)
+Gossip Count: 13080
+Avg. Gossip/sec:6.42172
+Avg. Latency: 1.13820 (sec)
+Num. of Events: 39025
+Num. of Consensus Events: 39007
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2039.89200 (sec)
+Gossip Count: 13100
+Avg. Gossip/sec:6.42191
+Avg. Latency: 1.13836 (sec)
+Num. of Events: 39083
+Num. of Consensus Events: 39060
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2043.03300 (sec)
+Gossip Count: 13120
+Avg. Gossip/sec:6.42182
+Avg. Latency: 1.13830 (sec)
+Num. of Events: 39136
+Num. of Consensus Events: 39127
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2046.17600 (sec)
+Gossip Count: 13140
+Avg. Gossip/sec:6.42173
+Avg. Latency: 1.13802 (sec)
+Num. of Events: 39203
+Num. of Consensus Events: 39189
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2049.55600 (sec)
+Gossip Count: 13160
+Avg. Gossip/sec:6.42090
+Avg. Latency: 1.13822 (sec)
+Num. of Events: 39260
+Num. of Consensus Events: 39245
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2052.73300 (sec)
+Gossip Count: 13180
+Avg. Gossip/sec:6.42071
+Avg. Latency: 1.13852 (sec)
+Num. of Events: 39321
+Num. of Consensus Events: 39297
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2055.80600 (sec)
+Gossip Count: 13200
+Avg. Gossip/sec:6.42084
+Avg. Latency: 1.13833 (sec)
+Num. of Events: 39373
+Num. of Consensus Events: 39362
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2059.12900 (sec)
+Gossip Count: 13220
+Avg. Gossip/sec:6.42019
+Avg. Latency: 1.13814 (sec)
+Num. of Events: 39435
+Num. of Consensus Events: 39421
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2062.26200 (sec)
+Gossip Count: 13240
+Avg. Gossip/sec:6.42013
+Avg. Latency: 1.13814 (sec)
+Num. of Events: 39499
+Num. of Consensus Events: 39484
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2065.73300 (sec)
+Gossip Count: 13260
+Avg. Gossip/sec:6.41903
+Avg. Latency: 1.13870 (sec)
+Num. of Events: 39556
+Num. of Consensus Events: 39545
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2069.06600 (sec)
+Gossip Count: 13280
+Avg. Gossip/sec:6.41835
+Avg. Latency: 1.13895 (sec)
+Num. of Events: 39618
+Num. of Consensus Events: 39603
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2072.40900 (sec)
+Gossip Count: 13300
+Avg. Gossip/sec:6.41765
+Avg. Latency: 1.13909 (sec)
+Num. of Events: 39673
+Num. of Consensus Events: 39659
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2075.72300 (sec)
+Gossip Count: 13320
+Avg. Gossip/sec:6.41704
+Avg. Latency: 1.13934 (sec)
+Num. of Events: 39735
+Num. of Consensus Events: 39716
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2079.46300 (sec)
+Gossip Count: 13340
+Avg. Gossip/sec:6.41512
+Avg. Latency: 1.14102 (sec)
+Num. of Events: 39794
+Num. of Consensus Events: 39778
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2082.56900 (sec)
+Gossip Count: 13360
+Avg. Gossip/sec:6.41515
+Avg. Latency: 1.14088 (sec)
+Num. of Events: 39853
+Num. of Consensus Events: 39840
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2085.59900 (sec)
+Gossip Count: 13380
+Avg. Gossip/sec:6.41542
+Avg. Latency: 1.14112 (sec)
+Num. of Events: 39910
+Num. of Consensus Events: 39881
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2088.83300 (sec)
+Gossip Count: 13400
+Avg. Gossip/sec:6.41507
+Avg. Latency: 1.14118 (sec)
+Num. of Events: 39960
+Num. of Consensus Events: 39937
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2092.00900 (sec)
+Gossip Count: 13420
+Avg. Gossip/sec:6.41489
+Avg. Latency: 1.14177 (sec)
+Num. of Events: 40030
+Num. of Consensus Events: 40011
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2095.17200 (sec)
+Gossip Count: 13440
+Avg. Gossip/sec:6.41475
+Avg. Latency: 1.14154 (sec)
+Num. of Events: 40085
+Num. of Consensus Events: 40070
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2098.33600 (sec)
+Gossip Count: 13460
+Avg. Gossip/sec:6.41461
+Avg. Latency: 1.14160 (sec)
+Num. of Events: 40145
+Num. of Consensus Events: 40133
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2101.57900 (sec)
+Gossip Count: 13480
+Avg. Gossip/sec:6.41422
+Avg. Latency: 1.14177 (sec)
+Num. of Events: 40205
+Num. of Consensus Events: 40188
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2104.64900 (sec)
+Gossip Count: 13500
+Avg. Gossip/sec:6.41437
+Avg. Latency: 1.14172 (sec)
+Num. of Events: 40260
+Num. of Consensus Events: 40240
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2107.72200 (sec)
+Gossip Count: 13520
+Avg. Gossip/sec:6.41451
+Avg. Latency: 1.14171 (sec)
+Num. of Events: 40324
+Num. of Consensus Events: 40306
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2110.98900 (sec)
+Gossip Count: 13540
+Avg. Gossip/sec:6.41406
+Avg. Latency: 1.14134 (sec)
+Num. of Events: 40384
+Num. of Consensus Events: 40371
+#### EVAL ####
+
+
+#### EVAL ####
+Gossip Runtime: 2113.94200 (sec)
+Gossip Count: 13560
+Avg. Gossip/sec:6.41456
+Avg. Latency: 1.14116 (sec)
+Num. of Events: 40441
+Num. of Consensus Events: 40433
+#### EVAL ####
+
